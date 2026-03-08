@@ -1,0 +1,385 @@
+[
+  {
+    "id": "it_0001",
+    "rank": 1,
+    "lang": "it",
+    "italian": "di",
+    "english": "of / from",
+    "partOfSpeech": "preposition",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [],
+    "tags": ["a1", "function-word"],
+    "needsReview": false
+  },
+  {
+    "id": "it_0002",
+    "rank": 2,
+    "lang": "it",
+    "italian": "il",
+    "english": "the (masculine singular)",
+    "partOfSpeech": "article",
+    "gender": "masculine",
+    "plural": "i",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [],
+    "tags": ["a1", "function-word"],
+    "needsReview": false
+  },
+  {
+    "id": "it_0003",
+    "rank": 3,
+    "lang": "it",
+    "italian": "essere",
+    "english": "to be",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "irregular",
+    "irregular": true,
+    "conjugations": {
+      "presente": {
+        "io": "sono",
+        "tu": "sei",
+        "lui": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      },
+      "passatoProssimo": {
+        "auxiliary": "essere",
+        "pastParticiple": "stato",
+        "io": "sono stato/a",
+        "tu": "sei stato/a",
+        "lui": "è stato/a",
+        "noi": "siamo stati/e",
+        "voi": "siete stati/e",
+        "loro": "sono stati/e"
+      },
+      "imperfetto": {
+        "io": "ero",
+        "tu": "eri",
+        "lui": "era",
+        "noi": "eravamo",
+        "voi": "eravate",
+        "loro": "erano"
+      },
+      "futuroSemplice": {
+        "io": "sarò",
+        "tu": "sarai",
+        "lui": "sarà",
+        "noi": "saremo",
+        "voi": "sarete",
+        "loro": "saranno"
+      },
+      "condizionale": {
+        "io": "sarei",
+        "tu": "saresti",
+        "lui": "sarebbe",
+        "noi": "saremmo",
+        "voi": "sareste",
+        "loro": "sarebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "sia",
+        "tu": "sia",
+        "lui": "sia",
+        "noi": "siamo",
+        "voi": "siate",
+        "loro": "siano"
+      }
+    },
+    "irregularForms": {
+      "presente": ["io", "tu", "lui", "noi", "voi", "loro"],
+      "passatoProssimo": ["pastParticiple"],
+      "imperfetto": ["io", "tu", "lui", "noi", "voi", "loro"]
+    },
+    "examples": [],
+    "tags": ["a1", "verb-irregular"],
+    "needsReview": false
+  },
+  {
+    "id": "it_0004",
+    "rank": 4,
+    "lang": "it",
+    "italian": "avere",
+    "english": "to have",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "irregular",
+    "irregular": true,
+    "conjugations": {
+      "presente": {
+        "io": "ho",
+        "tu": "hai",
+        "lui": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "avuto",
+        "io": "ho avuto",
+        "tu": "hai avuto",
+        "lui": "ha avuto",
+        "noi": "abbiamo avuto",
+        "voi": "avete avuto",
+        "loro": "hanno avuto"
+      },
+      "imperfetto": {
+        "io": "avevo",
+        "tu": "avevi",
+        "lui": "aveva",
+        "noi": "avevamo",
+        "voi": "avevate",
+        "loro": "avevano"
+      },
+      "futuroSemplice": {
+        "io": "avrò",
+        "tu": "avrai",
+        "lui": "avrà",
+        "noi": "avremo",
+        "voi": "avrete",
+        "loro": "avranno"
+      },
+      "condizionale": {
+        "io": "avrei",
+        "tu": "avresti",
+        "lui": "avrebbe",
+        "noi": "avremmo",
+        "voi": "avreste",
+        "loro": "avrebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "abbia",
+        "tu": "abbia",
+        "lui": "abbia",
+        "noi": "abbiamo",
+        "voi": "abbiate",
+        "loro": "abbiano"
+      }
+    },
+    "irregularForms": {
+      "presente": ["io", "tu", "lui", "loro"]
+    },
+    "examples": [],
+    "tags": ["a1", "verb-irregular"],
+    "needsReview": false
+  },
+  {
+    "id": "it_0005",
+    "rank": 5,
+    "lang": "it",
+    "italian": "casa",
+    "english": "house / home",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "case",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [],
+    "tags": ["a1"],
+    "needsReview": false
+  },
+  {
+    "id": "it_0006",
+    "rank": 6,
+    "lang": "it",
+    "italian": "fare",
+    "english": "to do / to make",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "irregular",
+    "irregular": true,
+    "conjugations": {
+      "presente": {
+        "io": "faccio",
+        "tu": "fai",
+        "lui": "fa",
+        "noi": "facciamo",
+        "voi": "fate",
+        "loro": "fanno"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "fatto",
+        "io": "ho fatto",
+        "tu": "hai fatto",
+        "lui": "ha fatto",
+        "noi": "abbiamo fatto",
+        "voi": "avete fatto",
+        "loro": "hanno fatto"
+      },
+      "imperfetto": {
+        "io": "facevo",
+        "tu": "facevi",
+        "lui": "faceva",
+        "noi": "facevamo",
+        "voi": "facevate",
+        "loro": "facevano"
+      },
+      "futuroSemplice": {
+        "io": "farò",
+        "tu": "farai",
+        "lui": "farà",
+        "noi": "faremo",
+        "voi": "farete",
+        "loro": "faranno"
+      },
+      "condizionale": {
+        "io": "farei",
+        "tu": "faresti",
+        "lui": "farebbe",
+        "noi": "faremmo",
+        "voi": "fareste",
+        "loro": "farebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "faccia",
+        "tu": "faccia",
+        "lui": "faccia",
+        "noi": "facciamo",
+        "voi": "facciate",
+        "loro": "facciano"
+      }
+    },
+    "irregularForms": {
+      "presente": ["io", "tu", "lui", "loro"],
+      "passatoProssimo": ["pastParticiple"]
+    },
+    "examples": [],
+    "tags": ["a1", "verb-irregular"],
+    "needsReview": false
+  },
+  {
+    "id": "it_0007",
+    "rank": 7,
+    "lang": "it",
+    "italian": "buono",
+    "english": "good",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "buoni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [],
+    "tags": ["a1"],
+    "needsReview": false
+  },
+  {
+    "id": "it_0008",
+    "rank": 8,
+    "lang": "it",
+    "italian": "parlare",
+    "english": "to speak / to talk",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "parlo",
+        "tu": "parli",
+        "lui": "parla",
+        "noi": "parliamo",
+        "voi": "parlate",
+        "loro": "parlano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "parlato",
+        "io": "ho parlato",
+        "tu": "hai parlato",
+        "lui": "ha parlato",
+        "noi": "abbiamo parlato",
+        "voi": "avete parlato",
+        "loro": "hanno parlato"
+      },
+      "imperfetto": {
+        "io": "parlavo",
+        "tu": "parlavi",
+        "lui": "parlava",
+        "noi": "parlavamo",
+        "voi": "parlavate",
+        "loro": "parlavano"
+      },
+      "futuroSemplice": {
+        "io": "parlerò",
+        "tu": "parlerai",
+        "lui": "parlerà",
+        "noi": "parleremo",
+        "voi": "parlerete",
+        "loro": "parleranno"
+      },
+      "condizionale": {
+        "io": "parlerei",
+        "tu": "parleresti",
+        "lui": "parlerebbe",
+        "noi": "parleremmo",
+        "voi": "parlereste",
+        "loro": "parlerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "parli",
+        "tu": "parli",
+        "lui": "parli",
+        "noi": "parliamo",
+        "voi": "parliate",
+        "loro": "parlino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [],
+    "tags": ["a1", "verb-are"],
+    "needsReview": false
+  },
+  {
+    "id": "it_0009",
+    "rank": 9,
+    "lang": "it",
+    "italian": "amico",
+    "english": "friend (male)",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "amici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [],
+    "tags": ["a1"],
+    "needsReview": false
+  },
+  {
+    "id": "it_0010",
+    "rank": 10,
+    "lang": "it",
+    "italian": "grazie",
+    "english": "thank you",
+    "partOfSpeech": "interjection",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [],
+    "tags": ["a1", "function-word"],
+    "needsReview": false
+  }
+]

@@ -1,0 +1,5137 @@
+[
+  {
+    "id": "it_2001",
+    "rank": 2001,
+    "lang": "it",
+    "italian": "antropologia",
+    "english": "anthropology",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Studia antropologia."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2002",
+    "rank": 2002,
+    "lang": "it",
+    "italian": "sociologia",
+    "english": "sociology",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Studia sociologia."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2003",
+    "rank": 2003,
+    "lang": "it",
+    "italian": "psicologia",
+    "english": "psychology",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La psicologia del comportamento."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2004",
+    "rank": 2004,
+    "lang": "it",
+    "italian": "neuroscienze",
+    "english": "neurosciences",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Le neuroscienze avanzano."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2005",
+    "rank": 2005,
+    "lang": "it",
+    "italian": "linguistica",
+    "english": "linguistics",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La linguistica italiana."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2006",
+    "rank": 2006,
+    "lang": "it",
+    "italian": "semiotica",
+    "english": "semiotics",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La semiotica dei segni."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2007",
+    "rank": 2007,
+    "lang": "it",
+    "italian": "ermeneutica",
+    "english": "hermeneutics",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'ermeneutica del testo."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2008",
+    "rank": 2008,
+    "lang": "it",
+    "italian": "epistemologia",
+    "english": "epistemology",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'epistemologia della scienza."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2009",
+    "rank": 2009,
+    "lang": "it",
+    "italian": "ontologia",
+    "english": "ontology",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'ontologia dell'essere."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2010",
+    "rank": 2010,
+    "lang": "it",
+    "italian": "metafisica",
+    "english": "metaphysics",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La metafisica di Aristotele."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2011",
+    "rank": 2011,
+    "lang": "it",
+    "italian": "fenomenologia",
+    "english": "phenomenology",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La fenomenologia di Husserl."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2012",
+    "rank": 2012,
+    "lang": "it",
+    "italian": "estetica",
+    "english": "aesthetics",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'estetica del bello."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2013",
+    "rank": 2013,
+    "lang": "it",
+    "italian": "deontologia",
+    "english": "deontology",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La deontologia professionale."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2014",
+    "rank": 2014,
+    "lang": "it",
+    "italian": "pragmatismo",
+    "english": "pragmatism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il pragmatismo americano."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2015",
+    "rank": 2015,
+    "lang": "it",
+    "italian": "empirismo",
+    "english": "empiricism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'empirismo di Locke."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2016",
+    "rank": 2016,
+    "lang": "it",
+    "italian": "razionalismo",
+    "english": "rationalism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il razionalismo cartesiano."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2017",
+    "rank": 2017,
+    "lang": "it",
+    "italian": "esistenzialismo",
+    "english": "existentialism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'esistenzialismo di Sartre."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2018",
+    "rank": 2018,
+    "lang": "it",
+    "italian": "strutturalismo",
+    "english": "structuralism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Lo strutturalismo linguistico."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2019",
+    "rank": 2019,
+    "lang": "it",
+    "italian": "post-modernismo",
+    "english": "post-modernism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il post-modernismo letterario."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2020",
+    "rank": 2020,
+    "lang": "it",
+    "italian": "decostruzionismo",
+    "english": "deconstructionism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il decostruzionismo di Derrida."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2021",
+    "rank": 2021,
+    "lang": "it",
+    "italian": "totalitarismo",
+    "english": "totalitarianism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il totalitarismo del XX secolo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2022",
+    "rank": 2022,
+    "lang": "it",
+    "italian": "autoritarismo",
+    "english": "authoritarianism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il regime autoritario."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2023",
+    "rank": 2023,
+    "lang": "it",
+    "italian": "dispotismo",
+    "english": "despotism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il dispotismo illuminato."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2024",
+    "rank": 2024,
+    "lang": "it",
+    "italian": "anarchia",
+    "english": "anarchy",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "anarchie",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'anarchia è il caos."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2025",
+    "rank": 2025,
+    "lang": "it",
+    "italian": "federalismo",
+    "english": "federalism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il federalismo europeo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2026",
+    "rank": 2026,
+    "lang": "it",
+    "italian": "regionalismo",
+    "english": "regionalism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il regionalismo in Italia."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2027",
+    "rank": 2027,
+    "lang": "it",
+    "italian": "separatismo",
+    "english": "separatism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il separatismo catalano."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2028",
+    "rank": 2028,
+    "lang": "it",
+    "italian": "secessionismo",
+    "english": "secessionism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il secessionismo scozzese."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2029",
+    "rank": 2029,
+    "lang": "it",
+    "italian": "sovranità",
+    "english": "sovereignty",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La sovranità nazionale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2030",
+    "rank": 2030,
+    "lang": "it",
+    "italian": "autodeterminazione",
+    "english": "self-determination",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il principio di autodeterminazione."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2031",
+    "rank": 2031,
+    "lang": "it",
+    "italian": "decolonizzazione",
+    "english": "decolonization",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il processo di decolonizzazione."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2032",
+    "rank": 2032,
+    "lang": "it",
+    "italian": "imperialismo",
+    "english": "imperialism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'imperialismo occidentale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2033",
+    "rank": 2033,
+    "lang": "it",
+    "italian": "colonialismo",
+    "english": "colonialism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il colonialismo europeo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2034",
+    "rank": 2034,
+    "lang": "it",
+    "italian": "neocolonialismo",
+    "english": "neocolonialism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il neocolonialismo economico."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2035",
+    "rank": 2035,
+    "lang": "it",
+    "italian": "geopolitica",
+    "english": "geopolitics",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La geopolitica moderna."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2036",
+    "rank": 2036,
+    "lang": "it",
+    "italian": "multilateralismo",
+    "english": "multilateralism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il multilateralismo funziona."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2037",
+    "rank": 2037,
+    "lang": "it",
+    "italian": "bilateralismo",
+    "english": "bilateralism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Gli accordi bilaterali."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2038",
+    "rank": 2038,
+    "lang": "it",
+    "italian": "deterrenza",
+    "english": "deterrence",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La deterrenza nucleare."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2039",
+    "rank": 2039,
+    "lang": "it",
+    "italian": "disarmo",
+    "english": "disarmament",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il disarmo nucleare."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2040",
+    "rank": 2040,
+    "lang": "it",
+    "italian": "proliferazione",
+    "english": "proliferation",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "proliferazioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La proliferazione nucleare."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2041",
+    "rank": 2041,
+    "lang": "it",
+    "italian": "terrorismo",
+    "english": "terrorism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il terrorismo internazionale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2042",
+    "rank": 2042,
+    "lang": "it",
+    "italian": "fondamentalismo",
+    "english": "fundamentalism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il fondamentalismo religioso."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2043",
+    "rank": 2043,
+    "lang": "it",
+    "italian": "radicalizzazione",
+    "english": "radicalization",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La radicalizzazione on line."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2044",
+    "rank": 2044,
+    "lang": "it",
+    "italian": "estremismo",
+    "english": "extremism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'estremismo politico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2045",
+    "rank": 2045,
+    "lang": "it",
+    "italian": "populismo",
+    "english": "populism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il populismo cresce."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2046",
+    "rank": 2046,
+    "lang": "it",
+    "italian": "demagogia",
+    "english": "demagogy",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La demagogia dei politici."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2047",
+    "rank": 2047,
+    "lang": "it",
+    "italian": "opportunismo",
+    "english": "opportunism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'opportunismo politico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2048",
+    "rank": 2048,
+    "lang": "it",
+    "italian": "clientelismo",
+    "english": "patronage",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il clientelismo è diffuso."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2049",
+    "rank": 2049,
+    "lang": "it",
+    "italian": "nepotismo",
+    "english": "nepotism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il nepotismo è inaccettabile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2050",
+    "rank": 2050,
+    "lang": "it",
+    "italian": "corporativismo",
+    "english": "corporatism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il corporativismo sindacale."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2051",
+    "rank": 2051,
+    "lang": "it",
+    "italian": "lobby",
+    "english": "lobby",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "lobby",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Le lobby industriali."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2052",
+    "rank": 2052,
+    "lang": "it",
+    "italian": "gruppo di pressione",
+    "english": "pressure group",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un gruppo di pressione."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2053",
+    "rank": 2053,
+    "lang": "it",
+    "italian": "think tank",
+    "english": "think tank",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "think tank",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un think tank indipendente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2054",
+    "rank": 2054,
+    "lang": "it",
+    "italian": "forum",
+    "english": "forum",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "forum",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un forum di discussione."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2055",
+    "rank": 2055,
+    "lang": "it",
+    "italian": "panel",
+    "english": "panel",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "panel",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un panel di esperti."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2056",
+    "rank": 2056,
+    "lang": "it",
+    "italian": "simposio",
+    "english": "symposium",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "simposi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un simposio internazionale."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2057",
+    "rank": 2057,
+    "lang": "it",
+    "italian": "colloquio",
+    "english": "colloquium/interview",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "colloqui",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un colloquio accademico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2058",
+    "rank": 2058,
+    "lang": "it",
+    "italian": "workshop",
+    "english": "workshop",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "workshop",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un workshop pratico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2059",
+    "rank": 2059,
+    "lang": "it",
+    "italian": "webinar",
+    "english": "webinar",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "webinar",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Partecipo a un webinar."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2060",
+    "rank": 2060,
+    "lang": "it",
+    "italian": "hackathon",
+    "english": "hackathon",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "hackathon",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un hackathon tecnologico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2061",
+    "rank": 2061,
+    "lang": "it",
+    "italian": "ecosistema",
+    "english": "ecosystem",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "ecosistemi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'ecosistema digitale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2062",
+    "rank": 2062,
+    "lang": "it",
+    "italian": "biodiversità",
+    "english": "biodiversity",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La biodiversità è minacciata."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2063",
+    "rank": 2063,
+    "lang": "it",
+    "italian": "deforestazione",
+    "english": "deforestation",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La deforestazione amazzonica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2064",
+    "rank": 2064,
+    "lang": "it",
+    "italian": "desertificazione",
+    "english": "desertification",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La desertificazione avanza."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2065",
+    "rank": 2065,
+    "lang": "it",
+    "italian": "cambiamento climatico",
+    "english": "climate change",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il cambiamento climatico è reale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2066",
+    "rank": 2066,
+    "lang": "it",
+    "italian": "effetto serra",
+    "english": "greenhouse effect",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'effetto serra aumenta."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2067",
+    "rank": 2067,
+    "lang": "it",
+    "italian": "gas serra",
+    "english": "greenhouse gas",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "gas serra",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "I gas serra sono pericolosi."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2068",
+    "rank": 2068,
+    "lang": "it",
+    "italian": "emissione",
+    "english": "emission",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "emissioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ridurre le emissioni."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2069",
+    "rank": 2069,
+    "lang": "it",
+    "italian": "impronta di carbonio",
+    "english": "carbon footprint",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Riduci l'impronta di carbonio."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2070",
+    "rank": 2070,
+    "lang": "it",
+    "italian": "sostenibilità",
+    "english": "sustainability",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La sostenibilità ambientale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2071",
+    "rank": 2071,
+    "lang": "it",
+    "italian": "rinnovabilità",
+    "english": "renewability",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La rinnovabilità delle risorse."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2072",
+    "rank": 2072,
+    "lang": "it",
+    "italian": "eolico",
+    "english": "wind (energy)",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'energia eolica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2073",
+    "rank": 2073,
+    "lang": "it",
+    "italian": "solare",
+    "english": "solar (energy)",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il pannello solare."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2074",
+    "rank": 2074,
+    "lang": "it",
+    "italian": "geotermico",
+    "english": "geothermal",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'energia geotermica."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2075",
+    "rank": 2075,
+    "lang": "it",
+    "italian": "idroelettrico",
+    "english": "hydroelectric",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una centrale idroelettrica."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2076",
+    "rank": 2076,
+    "lang": "it",
+    "italian": "nucleare",
+    "english": "nuclear (energy)",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'energia nucleare è controversa."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2077",
+    "rank": 2077,
+    "lang": "it",
+    "italian": "trasizione energetica",
+    "english": "energy transition",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La transizione energetica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2078",
+    "rank": 2078,
+    "lang": "it",
+    "italian": "decarbonizzazione",
+    "english": "decarbonization",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La decarbonizzazione dell'economia."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2079",
+    "rank": 2079,
+    "lang": "it",
+    "italian": "neutralità carbonica",
+    "english": "carbon neutrality",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Obiettivo di neutralità carbonica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2080",
+    "rank": 2080,
+    "lang": "it",
+    "italian": "compensazione di carbonio",
+    "english": "carbon offset",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La compensazione di carbonio."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2081",
+    "rank": 2081,
+    "lang": "it",
+    "italian": "economia circolare",
+    "english": "circular economy",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'economia circolare."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2082",
+    "rank": 2082,
+    "lang": "it",
+    "italian": "upcycling",
+    "english": "upcycling",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'upcycling dei materiali."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2083",
+    "rank": 2083,
+    "lang": "it",
+    "italian": "obsolescenza programmata",
+    "english": "planned obsolescence",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'obsolescenza programmata."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2084",
+    "rank": 2084,
+    "lang": "it",
+    "italian": "consumismo",
+    "english": "consumerism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il consumismo sfrenato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2085",
+    "rank": 2085,
+    "lang": "it",
+    "italian": "materialismo",
+    "english": "materialism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il materialismo moderno."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2086",
+    "rank": 2086,
+    "lang": "it",
+    "italian": "minimalismo",
+    "english": "minimalism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il minimalismo nel design."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2087",
+    "rank": 2087,
+    "lang": "it",
+    "italian": "decrescita",
+    "english": "degrowth",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La teoria della decrescita."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2088",
+    "rank": 2088,
+    "lang": "it",
+    "italian": "well-being",
+    "english": "well-being",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il benessere psicologico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2089",
+    "rank": 2089,
+    "lang": "it",
+    "italian": "resilienza",
+    "english": "resilience",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La resilienza della comunità."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2090",
+    "rank": 2090,
+    "lang": "it",
+    "italian": "antifragilità",
+    "english": "antifragility",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il concetto di antifragilità."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2091",
+    "rank": 2091,
+    "lang": "it",
+    "italian": "vulnerabilità",
+    "english": "vulnerability",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La vulnerabilità del sistema."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2092",
+    "rank": 2092,
+    "lang": "it",
+    "italian": "fragilità",
+    "english": "fragility",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La fragilità del sistema."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2093",
+    "rank": 2093,
+    "lang": "it",
+    "italian": "sostenibilità sociale",
+    "english": "social sustainability",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La sostenibilità sociale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2094",
+    "rank": 2094,
+    "lang": "it",
+    "italian": "coesione sociale",
+    "english": "social cohesion",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La coesione sociale è importante."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2095",
+    "rank": 2095,
+    "lang": "it",
+    "italian": "mobilità sociale",
+    "english": "social mobility",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La mobilità sociale è bassa."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2096",
+    "rank": 2096,
+    "lang": "it",
+    "italian": "ineguaglianza",
+    "english": "inequality",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "ineguaglianze",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'ineguaglianza cresce."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2097",
+    "rank": 2097,
+    "lang": "it",
+    "italian": "divario",
+    "english": "gap/divide",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "divari",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il divario nord-sud."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2098",
+    "rank": 2098,
+    "lang": "it",
+    "italian": "digital divide",
+    "english": "digital divide",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il digital divide è reale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2099",
+    "rank": 2099,
+    "lang": "it",
+    "italian": "esclusione digitale",
+    "english": "digital exclusion",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'esclusione digitale degli anziani."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2100",
+    "rank": 2100,
+    "lang": "it",
+    "italian": "accesso equo",
+    "english": "equitable access",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'accesso equo alla salute."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2101",
+    "rank": 2101,
+    "lang": "it",
+    "italian": "multidisciplinare",
+    "english": "multidisciplinary",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "multidisciplinari",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un approccio multidisciplinare."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2102",
+    "rank": 2102,
+    "lang": "it",
+    "italian": "interdisciplinare",
+    "english": "interdisciplinary",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "interdisciplinari",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una ricerca interdisciplinare."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2103",
+    "rank": 2103,
+    "lang": "it",
+    "italian": "transdisciplinare",
+    "english": "transdisciplinary",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "transdisciplinari",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un progetto transdisciplinare."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2104",
+    "rank": 2104,
+    "lang": "it",
+    "italian": "olistico",
+    "english": "holistic",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "olistici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una visione olistica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2105",
+    "rank": 2105,
+    "lang": "it",
+    "italian": "sistemico",
+    "english": "systemic",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "sistemici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un problema sistemico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2106",
+    "rank": 2106,
+    "lang": "it",
+    "italian": "strutturale",
+    "english": "structural",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "strutturali",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una riforma strutturale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2107",
+    "rank": 2107,
+    "lang": "it",
+    "italian": "congiunturale",
+    "english": "cyclical/conjunctural",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "congiunturali",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una crisi congiunturale."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2108",
+    "rank": 2108,
+    "lang": "it",
+    "italian": "ciclico",
+    "english": "cyclical",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "ciclici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un andamento ciclico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2109",
+    "rank": 2109,
+    "lang": "it",
+    "italian": "stagnante",
+    "english": "stagnant",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "stagnanti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'economia stagnante."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2110",
+    "rank": 2110,
+    "lang": "it",
+    "italian": "recessivo",
+    "english": "recessionary",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "recessivi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una fase recessiva."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2111",
+    "rank": 2111,
+    "lang": "it",
+    "italian": "espansivo",
+    "english": "expansive",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "espansivi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una politica espansiva."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2112",
+    "rank": 2112,
+    "lang": "it",
+    "italian": "restrittivo",
+    "english": "restrictive",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "restrittivi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una politica restrittiva."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2113",
+    "rank": 2113,
+    "lang": "it",
+    "italian": "redistributivo",
+    "english": "redistributive",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "redistributivi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una politica redistributiva."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2114",
+    "rank": 2114,
+    "lang": "it",
+    "italian": "progressivo",
+    "english": "progressive",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "progressivi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una tassa progressiva."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2115",
+    "rank": 2115,
+    "lang": "it",
+    "italian": "regressivo",
+    "english": "regressive",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "regressivi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una tassa regressiva."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2117",
+    "rank": 2117,
+    "lang": "it",
+    "italian": "sostenibile",
+    "english": "sustainable",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "sostenibili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un modello sostenibile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2118",
+    "rank": 2118,
+    "lang": "it",
+    "italian": "insostenibile",
+    "english": "unsustainable",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "insostenibili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un debito insostenibile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2119",
+    "rank": 2119,
+    "lang": "it",
+    "italian": "rinnovabile",
+    "english": "renewable",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "rinnovabili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Energia rinnovabile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2120",
+    "rank": 2120,
+    "lang": "it",
+    "italian": "esauribile",
+    "english": "exhaustible",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "esauribili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Risorse esauribili."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2121",
+    "rank": 2121,
+    "lang": "it",
+    "italian": "biodegradabile",
+    "english": "biodegradable",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "biodegradabili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Materiali biodegradabili."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2122",
+    "rank": 2122,
+    "lang": "it",
+    "italian": "eco-compatibile",
+    "english": "eco-compatible",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "eco-compatibili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un prodotto eco-compatibile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2123",
+    "rank": 2123,
+    "lang": "it",
+    "italian": "ecologico",
+    "english": "ecological",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "ecologici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un approccio ecologico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2124",
+    "rank": 2124,
+    "lang": "it",
+    "italian": "inquinante",
+    "english": "polluting",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "inquinanti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Sostanze inquinanti."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2125",
+    "rank": 2125,
+    "lang": "it",
+    "italian": "tossico",
+    "english": "toxic",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "tossici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una sostanza tossica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2126",
+    "rank": 2126,
+    "lang": "it",
+    "italian": "cancerogeno",
+    "english": "carcinogenic",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "cancerogeni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una sostanza cancerogena."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2127",
+    "rank": 2127,
+    "lang": "it",
+    "italian": "nocivo",
+    "english": "harmful",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "nocivi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un effetto nocivo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2128",
+    "rank": 2128,
+    "lang": "it",
+    "italian": "benefico",
+    "english": "beneficial",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "benefici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un effetto benefico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2130",
+    "rank": 2130,
+    "lang": "it",
+    "italian": "virulento",
+    "english": "virulent",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "virulenti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un virus virulento."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2131",
+    "rank": 2131,
+    "lang": "it",
+    "italian": "pandemico",
+    "english": "pandemic",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "pandemici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una crisi pandemica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2132",
+    "rank": 2132,
+    "lang": "it",
+    "italian": "epidemico",
+    "english": "epidemic",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "epidemici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una diffusione epidemica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2133",
+    "rank": 2133,
+    "lang": "it",
+    "italian": "endemico",
+    "english": "endemic",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "endemici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una malattia endemica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2134",
+    "rank": 2134,
+    "lang": "it",
+    "italian": "contagioso",
+    "english": "contagious",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "contagiosi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È molto contagioso."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2136",
+    "rank": 2136,
+    "lang": "it",
+    "italian": "immunizzato",
+    "english": "immunized",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "immunizzati",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La popolazione immunizzata."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2137",
+    "rank": 2137,
+    "lang": "it",
+    "italian": "vaccinato",
+    "english": "vaccinated",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "vaccinati",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un bambino vaccinato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2138",
+    "rank": 2138,
+    "lang": "it",
+    "italian": "inattivo",
+    "english": "inactive",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "inattivi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un vulcano inattivo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2139",
+    "rank": 2139,
+    "lang": "it",
+    "italian": "latente",
+    "english": "latent",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "latenti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un conflitto latente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2140",
+    "rank": 2140,
+    "lang": "it",
+    "italian": "manifesto",
+    "english": "manifest/obvious",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "manifesti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'intenzione manifesta."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2141",
+    "rank": 2141,
+    "lang": "it",
+    "italian": "palese",
+    "english": "evident/clear",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "palesi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È palese."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2142",
+    "rank": 2142,
+    "lang": "it",
+    "italian": "occulto",
+    "english": "hidden/occult",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "occulti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Poteri occulti."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2143",
+    "rank": 2143,
+    "lang": "it",
+    "italian": "clandestino",
+    "english": "clandestine",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "clandestini",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'attività clandestina."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2144",
+    "rank": 2144,
+    "lang": "it",
+    "italian": "sotterraneo",
+    "english": "underground",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "sotterranei",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'economia sotterranea."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2146",
+    "rank": 2146,
+    "lang": "it",
+    "italian": "sommerso",
+    "english": "submerged/underground",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "sommersi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'economia sommersa."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2147",
+    "rank": 2147,
+    "lang": "it",
+    "italian": "trasparente",
+    "english": "transparent",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "trasparenti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un sistema trasparente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2148",
+    "rank": 2148,
+    "lang": "it",
+    "italian": "opaco",
+    "english": "opaque",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "opachi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un sistema opaco."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2149",
+    "rank": 2149,
+    "lang": "it",
+    "italian": "inequivocabile",
+    "english": "unequivocal",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "inequivocabili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una risposta inequivocabile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2151",
+    "rank": 2151,
+    "lang": "it",
+    "italian": "inequivocabilmente",
+    "english": "unequivocally",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È inequivocabilmente sbagliato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2152",
+    "rank": 2152,
+    "lang": "it",
+    "italian": "incontrovertibilmente",
+    "english": "incontrovertibly",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È incontrovertibilmente vero."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2153",
+    "rank": 2153,
+    "lang": "it",
+    "italian": "categoricamente",
+    "english": "categorically",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Rifiuto categoricamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2154",
+    "rank": 2154,
+    "lang": "it",
+    "italian": "perentoriamente",
+    "english": "peremptorily",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ha risposto perentoriamente."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2155",
+    "rank": 2155,
+    "lang": "it",
+    "italian": "incondizionatamente",
+    "english": "unconditionally",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Lo supporto incondizionatamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2156",
+    "rank": 2156,
+    "lang": "it",
+    "italian": "irrevocabilmente",
+    "english": "irrevocably",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È irrevocabilmente perso."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2157",
+    "rank": 2157,
+    "lang": "it",
+    "italian": "inesorabilmente",
+    "english": "inexorably",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Avanza inesorabilmente."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2158",
+    "rank": 2158,
+    "lang": "it",
+    "italian": "inevitabilmente",
+    "english": "inevitably",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Inevitabilmente accadrà."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2159",
+    "rank": 2159,
+    "lang": "it",
+    "italian": "sistematicamente",
+    "english": "systematically",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Lavora sistematicamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2160",
+    "rank": 2160,
+    "lang": "it",
+    "italian": "metodicamente",
+    "english": "methodically",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Procede metodicamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2161",
+    "rank": 2161,
+    "lang": "it",
+    "italian": "rigorosamente",
+    "english": "rigorously",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Analizza rigorosamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2162",
+    "rank": 2162,
+    "lang": "it",
+    "italian": "scrupolosamente",
+    "english": "scrupulously",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Lavora scrupolosamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2163",
+    "rank": 2163,
+    "lang": "it",
+    "italian": "meticolosamente",
+    "english": "meticulously",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Controlla meticolosamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2164",
+    "rank": 2164,
+    "lang": "it",
+    "italian": "accuratamente",
+    "english": "accurately/carefully",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Esamina accuratamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2165",
+    "rank": 2165,
+    "lang": "it",
+    "italian": "sommariamente",
+    "english": "summarily",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È stato giudicato sommariamente."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2166",
+    "rank": 2166,
+    "lang": "it",
+    "italian": "arbitrariamente",
+    "english": "arbitrarily",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È deciso arbitrariamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2167",
+    "rank": 2167,
+    "lang": "it",
+    "italian": "unilateralmente",
+    "english": "unilaterally",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ha deciso unilateralmente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2168",
+    "rank": 2168,
+    "lang": "it",
+    "italian": "bilateralmente",
+    "english": "bilaterally",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Hanno concordato bilateralmente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2169",
+    "rank": 2169,
+    "lang": "it",
+    "italian": "multilateralmente",
+    "english": "multilaterally",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Si accordano multilateralmente."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2170",
+    "rank": 2170,
+    "lang": "it",
+    "italian": "consensualmente",
+    "english": "consensually",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Hanno deciso consensualmente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2171",
+    "rank": 2171,
+    "lang": "it",
+    "italian": "democraticamente",
+    "english": "democratically",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È stato eletto democraticamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2172",
+    "rank": 2172,
+    "lang": "it",
+    "italian": "autoritariamente",
+    "english": "authoritariamente",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Governa autoritariamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2173",
+    "rank": 2173,
+    "lang": "it",
+    "italian": "trasparentemente",
+    "english": "transparently",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Agisce trasparentemente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2174",
+    "rank": 2174,
+    "lang": "it",
+    "italian": "in modo fraudolento",
+    "english": "fraudulently",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ha agito in modo fraudolento."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2175",
+    "rank": 2175,
+    "lang": "it",
+    "italian": "corruttamente",
+    "english": "corruptly",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ha agito corruttamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2176",
+    "rank": 2176,
+    "lang": "it",
+    "italian": "eticamente",
+    "english": "ethically — see 1249",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": "eticamente",
+    "tags": [
+      "—"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2177",
+    "rank": 2177,
+    "lang": "it",
+    "italian": "in buona fede",
+    "english": "in good faith",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ha agito in buona fede."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2178",
+    "rank": 2178,
+    "lang": "it",
+    "italian": "in malafede",
+    "english": "in bad faith",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ha agito in malafede."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2179",
+    "rank": 2179,
+    "lang": "it",
+    "italian": "intenzionalmente",
+    "english": "intentionally — see 1488",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": "intenzionalmente",
+    "tags": [
+      "—"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2180",
+    "rank": 2180,
+    "lang": "it",
+    "italian": "con dolo",
+    "english": "with malice/intent",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ha agito con dolo."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2181",
+    "rank": 2181,
+    "lang": "it",
+    "italian": "per colpa",
+    "english": "through negligence",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È successo per colpa."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2182",
+    "rank": 2182,
+    "lang": "it",
+    "italian": "fortuita mente",
+    "english": "fortuitously",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È successo fortuitamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2183",
+    "rank": 2183,
+    "lang": "it",
+    "italian": "casualmente",
+    "english": "casually/accidentally",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'ho incontrato casualmente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2184",
+    "rank": 2184,
+    "lang": "it",
+    "italian": "incidentalmente",
+    "english": "incidentally",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Incidentalmente, sapevi che?"
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2185",
+    "rank": 2185,
+    "lang": "it",
+    "italian": "per inciso",
+    "english": "incidentally/by the way",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Per inciso, è sbagliato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2186",
+    "rank": 2186,
+    "lang": "it",
+    "italian": "a titolo di esempio",
+    "english": "by way of example",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A titolo di esempio."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2187",
+    "rank": 2187,
+    "lang": "it",
+    "italian": "a mo' di",
+    "english": "by way of/in the manner of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A mo' di conclusione."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2188",
+    "rank": 2188,
+    "lang": "it",
+    "italian": "in virtù di",
+    "english": "by virtue of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In virtù del contratto."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2189",
+    "rank": 2189,
+    "lang": "it",
+    "italian": "in forza di",
+    "english": "by force of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": "In forza di legge.",
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2190",
+    "rank": 2190,
+    "lang": "it",
+    "italian": "ai sensi di",
+    "english": "pursuant to",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ai sensi dell'articolo 3."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2191",
+    "rank": 2191,
+    "lang": "it",
+    "italian": "a norma di",
+    "english": "in accordance with",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A norma di legge."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2192",
+    "rank": 2192,
+    "lang": "it",
+    "italian": "in ottemperanza a",
+    "english": "in compliance with",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In ottemperanza alle norme."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2193",
+    "rank": 2193,
+    "lang": "it",
+    "italian": "nel rispetto di",
+    "english": "in respect of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Nel rispetto della legge."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2194",
+    "rank": 2194,
+    "lang": "it",
+    "italian": "a detrimento di",
+    "english": "to the detriment of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A detrimento della salute."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2195",
+    "rank": 2195,
+    "lang": "it",
+    "italian": "a scapito di",
+    "english": "at the expense of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A scapito della qualità."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2196",
+    "rank": 2196,
+    "lang": "it",
+    "italian": "a vantaggio di",
+    "english": "to the advantage of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A vantaggio di tutti."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2197",
+    "rank": 2197,
+    "lang": "it",
+    "italian": "a favore di",
+    "english": "in favor of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Si è espresso a favore."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2198",
+    "rank": 2198,
+    "lang": "it",
+    "italian": "contro",
+    "english": "against — see 248",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": "contro",
+    "tags": [
+      "—"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2199",
+    "rank": 2199,
+    "lang": "it",
+    "italian": "nell'interesse di",
+    "english": "in the interest of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Nell'interesse pubblico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2200",
+    "rank": 2200,
+    "lang": "it",
+    "italian": "per conto di",
+    "english": "on behalf of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Parla per conto dell'azienda."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2201",
+    "rank": 2201,
+    "lang": "it",
+    "italian": "in nome di",
+    "english": "in the name of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In nome della legge."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2202",
+    "rank": 2202,
+    "lang": "it",
+    "italian": "per quanto riguarda",
+    "english": "as regards",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Per quanto riguarda il prezzo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2203",
+    "rank": 2203,
+    "lang": "it",
+    "italian": "con riferimento a",
+    "english": "with reference to",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Con riferimento alla sua lettera."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2204",
+    "rank": 2204,
+    "lang": "it",
+    "italian": "in risposta a",
+    "english": "in response to",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In risposta alla sua domanda."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2205",
+    "rank": 2205,
+    "lang": "it",
+    "italian": "a seguire",
+    "english": "to follow/next",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A seguire il discorso."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2206",
+    "rank": 2206,
+    "lang": "it",
+    "italian": "di seguito",
+    "english": "below/as follows",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Di seguito il testo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2207",
+    "rank": 2207,
+    "lang": "it",
+    "italian": "come indicato",
+    "english": "as indicated",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Come indicato sopra."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2208",
+    "rank": 2208,
+    "lang": "it",
+    "italian": "come previsto",
+    "english": "as expected",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Come previsto, ha funzionato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2209",
+    "rank": 2209,
+    "lang": "it",
+    "italian": "come stabilito",
+    "english": "as established",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Come stabilito dall'accordo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2210",
+    "rank": 2210,
+    "lang": "it",
+    "italian": "come concordato",
+    "english": "as agreed",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Come concordato, procedo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2211",
+    "rank": 2211,
+    "lang": "it",
+    "italian": "fatte salve le eccezioni",
+    "english": "subject to exceptions",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Fatte salve le eccezioni."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2212",
+    "rank": 2212,
+    "lang": "it",
+    "italian": "fatto salvo il diritto",
+    "english": "reserving the right",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Fatto salvo il diritto di recesso."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2213",
+    "rank": 2213,
+    "lang": "it",
+    "italian": "senza pregiudizio",
+    "english": "without prejudice",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Senza pregiudizio alcuno."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2214",
+    "rank": 2214,
+    "lang": "it",
+    "italian": "a pena di",
+    "english": "under penalty of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A pena di nullità."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2215",
+    "rank": 2215,
+    "lang": "it",
+    "italian": "in deroga a",
+    "english": "by way of derogation from",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In deroga alla norma."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2216",
+    "rank": 2216,
+    "lang": "it",
+    "italian": "in via eccezionale",
+    "english": "exceptionally",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In via eccezionale, sì."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2217",
+    "rank": 2217,
+    "lang": "it",
+    "italian": "in via ordinaria",
+    "english": "ordinarily",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In via ordinaria si fa così."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2218",
+    "rank": 2218,
+    "lang": "it",
+    "italian": "in via straordinaria",
+    "english": "in extraordinary manner",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In via straordinaria."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2219",
+    "rank": 2219,
+    "lang": "it",
+    "italian": "in via provvisoria",
+    "english": "provisionally",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In via provvisoria."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2220",
+    "rank": 2220,
+    "lang": "it",
+    "italian": "in via definitiva",
+    "english": "definitively",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In via definitiva."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2221",
+    "rank": 2221,
+    "lang": "it",
+    "italian": "pro tempore",
+    "english": "pro tempore",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il presidente pro tempore."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2222",
+    "rank": 2222,
+    "lang": "it",
+    "italian": "ad interim",
+    "english": "ad interim",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il ministro ad interim."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2223",
+    "rank": 2223,
+    "lang": "it",
+    "italian": "ex officio",
+    "english": "ex officio",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Membro ex officio."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2224",
+    "rank": 2224,
+    "lang": "it",
+    "italian": "de facto",
+    "english": "de facto",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'autorità de facto."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2225",
+    "rank": 2225,
+    "lang": "it",
+    "italian": "de iure",
+    "english": "de jure",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il riconoscimento de iure."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2226",
+    "rank": 2226,
+    "lang": "it",
+    "italian": "erga omnes",
+    "english": "towards all",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un obbligo erga omnes."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2227",
+    "rank": 2227,
+    "lang": "it",
+    "italian": "inter alia",
+    "english": "among other things",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Inter alia, si è discusso."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2228",
+    "rank": 2228,
+    "lang": "it",
+    "italian": "mutatis mutandis",
+    "english": "with necessary changes",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Mutatis mutandis, vale anche qui."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2229",
+    "rank": 2229,
+    "lang": "it",
+    "italian": "prima facie",
+    "english": "at first sight",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Prima facie sembra corretto."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2230",
+    "rank": 2230,
+    "lang": "it",
+    "italian": "sine die",
+    "english": "without a date",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": "La riunione è rinviata sine die.",
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2231",
+    "rank": 2231,
+    "lang": "it",
+    "italian": "pro rata",
+    "english": "proportionally",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il pagamento è pro rata."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2232",
+    "rank": 2232,
+    "lang": "it",
+    "italian": "in abstracto",
+    "english": "in the abstract",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Analizzare in abstracto."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2233",
+    "rank": 2233,
+    "lang": "it",
+    "italian": "in concreto",
+    "english": "in the concrete case",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Valutare in concreto."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2234",
+    "rank": 2234,
+    "lang": "it",
+    "italian": "a fortiori",
+    "english": "a fortiori/all the more so",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A fortiori questo vale."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2235",
+    "rank": 2235,
+    "lang": "it",
+    "italian": "a contrario",
+    "english": "by contrary reasoning",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Argomento a contrario."
+    ],
+    "tags": [
+      "c1"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2236",
+    "rank": 2236,
+    "lang": "it",
+    "italian": "a priori",
+    "english": "a priori",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Non si può sapere a priori."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2237",
+    "rank": 2237,
+    "lang": "it",
+    "italian": "a posteriori",
+    "english": "a posteriori",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Lo sappiamo a posteriori."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2238",
+    "rank": 2238,
+    "lang": "it",
+    "italian": "in ultima analisi",
+    "english": "in the final analysis",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In ultima analisi, dipende."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2239",
+    "rank": 2239,
+    "lang": "it",
+    "italian": "tutto sommato",
+    "english": "all things considered",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Tutto sommato, va bene."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2240",
+    "rank": 2240,
+    "lang": "it",
+    "italian": "nel bene e nel male",
+    "english": "for better or worse",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Nel bene e nel male, è così."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2241",
+    "rank": 2241,
+    "lang": "it",
+    "italian": "alla fin fine",
+    "english": "in the final end",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Alla fin fine, ha ragione."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2242",
+    "rank": 2242,
+    "lang": "it",
+    "italian": "in definitiva",
+    "english": "ultimately",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In definitiva, è positivo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2243",
+    "rank": 2243,
+    "lang": "it",
+    "italian": "a conti fatti",
+    "english": "when all is said and done",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A conti fatti, vale la pena."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2244",
+    "rank": 2244,
+    "lang": "it",
+    "italian": "al netto di",
+    "english": "net of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Al netto delle spese."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2245",
+    "rank": 2245,
+    "lang": "it",
+    "italian": "al lordo di",
+    "english": "gross of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Al lordo delle imposte."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2246",
+    "rank": 2246,
+    "lang": "it",
+    "italian": "su base mensile",
+    "english": "on a monthly basis",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Pagamento su base mensile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2247",
+    "rank": 2247,
+    "lang": "it",
+    "italian": "su base annuale",
+    "english": "on an annual basis",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Crescita su base annuale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2248",
+    "rank": 2248,
+    "lang": "it",
+    "italian": "su base trimestrale",
+    "english": "on a quarterly basis",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Report su base trimestrale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2249",
+    "rank": 2249,
+    "lang": "it",
+    "italian": "anno su anno",
+    "english": "year on year",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Crescita anno su anno."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2250",
+    "rank": 2250,
+    "lang": "it",
+    "italian": "in termini reali",
+    "english": "in real terms",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In termini reali è un calo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  }
+]

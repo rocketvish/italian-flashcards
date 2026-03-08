@@ -1,0 +1,7890 @@
+[
+  {
+    "id": "it_1751",
+    "rank": 1751,
+    "lang": "it",
+    "italian": "riflettere",
+    "english": "to reflect/think over",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "ere",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "rifletto",
+        "tu": "rifletti",
+        "lui": "riflette",
+        "noi": "riflettiamo",
+        "voi": "riflettete",
+        "loro": "riflettono"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "riflettuto",
+        "io": "ho riflettuto",
+        "tu": "hai riflettuto",
+        "lui": "ha riflettuto",
+        "noi": "abbiamo riflettuto",
+        "voi": "avete riflettuto",
+        "loro": "hanno riflettuto"
+      },
+      "imperfetto": {
+        "io": "riflettevo",
+        "tu": "riflettevi",
+        "lui": "rifletteva",
+        "noi": "riflettevamo",
+        "voi": "riflettevate",
+        "loro": "riflettevano"
+      },
+      "futuroSemplice": {
+        "io": "rifletterò",
+        "tu": "rifletterai",
+        "lui": "rifletterà",
+        "noi": "rifletteremo",
+        "voi": "rifletterete",
+        "loro": "rifletteranno"
+      },
+      "condizionale": {
+        "io": "rifletterei",
+        "tu": "rifletteresti",
+        "lui": "rifletterebbe",
+        "noi": "rifletteremmo",
+        "voi": "riflettereste",
+        "loro": "rifletterebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "rifletta",
+        "tu": "rifletta",
+        "lui": "rifletta",
+        "noi": "riflettiamo",
+        "voi": "riflettiate",
+        "loro": "riflettano"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Devo riflettere."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1752",
+    "rank": 1752,
+    "lang": "it",
+    "italian": "meditare",
+    "english": "to meditate/ponder",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "medito",
+        "tu": "mediti",
+        "lui": "medita",
+        "noi": "meditiamo",
+        "voi": "meditate",
+        "loro": "meditano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "meditato",
+        "io": "ho meditato",
+        "tu": "hai meditato",
+        "lui": "ha meditato",
+        "noi": "abbiamo meditato",
+        "voi": "avete meditato",
+        "loro": "hanno meditato"
+      },
+      "imperfetto": {
+        "io": "meditavo",
+        "tu": "meditavi",
+        "lui": "meditava",
+        "noi": "meditavamo",
+        "voi": "meditavate",
+        "loro": "meditavano"
+      },
+      "futuroSemplice": {
+        "io": "mediterò",
+        "tu": "mediterai",
+        "lui": "mediterà",
+        "noi": "mediteremo",
+        "voi": "mediterete",
+        "loro": "mediteranno"
+      },
+      "condizionale": {
+        "io": "mediterei",
+        "tu": "mediteresti",
+        "lui": "mediterebbe",
+        "noi": "mediteremmo",
+        "voi": "meditereste",
+        "loro": "mediterebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "mediti",
+        "tu": "mediti",
+        "lui": "mediti",
+        "noi": "meditiamo",
+        "voi": "meditiate",
+        "loro": "meditino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Meditavo su questo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1753",
+    "rank": 1753,
+    "lang": "it",
+    "italian": "contemplare",
+    "english": "to contemplate",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "contemplo",
+        "tu": "contempli",
+        "lui": "contempla",
+        "noi": "contempliamo",
+        "voi": "contemplate",
+        "loro": "contemplano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "contemplato",
+        "io": "ho contemplato",
+        "tu": "hai contemplato",
+        "lui": "ha contemplato",
+        "noi": "abbiamo contemplato",
+        "voi": "avete contemplato",
+        "loro": "hanno contemplato"
+      },
+      "imperfetto": {
+        "io": "contemplavo",
+        "tu": "contemplavi",
+        "lui": "contemplava",
+        "noi": "contemplavamo",
+        "voi": "contemplavate",
+        "loro": "contemplavano"
+      },
+      "futuroSemplice": {
+        "io": "contemplerò",
+        "tu": "contemplerai",
+        "lui": "contemplerà",
+        "noi": "contempleremo",
+        "voi": "contemplerete",
+        "loro": "contempleranno"
+      },
+      "condizionale": {
+        "io": "contemplerei",
+        "tu": "contempleresti",
+        "lui": "contemplerebbe",
+        "noi": "contempleremmo",
+        "voi": "contemplereste",
+        "loro": "contemplerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "contempli",
+        "tu": "contempli",
+        "lui": "contempli",
+        "noi": "contempliamo",
+        "voi": "contempliate",
+        "loro": "contemplino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Contempla il paesaggio."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1754",
+    "rank": 1754,
+    "lang": "it",
+    "italian": "elaborare",
+    "english": "to elaborate/process",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "elaboro",
+        "tu": "elabori",
+        "lui": "elabora",
+        "noi": "elaboriamo",
+        "voi": "elaborate",
+        "loro": "elaborano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "elaborato",
+        "io": "ho elaborato",
+        "tu": "hai elaborato",
+        "lui": "ha elaborato",
+        "noi": "abbiamo elaborato",
+        "voi": "avete elaborato",
+        "loro": "hanno elaborato"
+      },
+      "imperfetto": {
+        "io": "elaboravo",
+        "tu": "elaboravi",
+        "lui": "elaborava",
+        "noi": "elaboravamo",
+        "voi": "elaboravate",
+        "loro": "elaboravano"
+      },
+      "futuroSemplice": {
+        "io": "elaborerò",
+        "tu": "elaborerai",
+        "lui": "elaborerà",
+        "noi": "elaboreremo",
+        "voi": "elaborerete",
+        "loro": "elaboreranno"
+      },
+      "condizionale": {
+        "io": "elaborerei",
+        "tu": "elaboreresti",
+        "lui": "elaborerebbe",
+        "noi": "elaboreremmo",
+        "voi": "elaborereste",
+        "loro": "elaborerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "elabori",
+        "tu": "elabori",
+        "lui": "elabori",
+        "noi": "elaboriamo",
+        "voi": "elaboriate",
+        "loro": "elaborino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Elabora il lutto."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1755",
+    "rank": 1755,
+    "lang": "it",
+    "italian": "interpretare",
+    "english": "to interpret",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "interpreto",
+        "tu": "interpreti",
+        "lui": "interpreta",
+        "noi": "interpretiamo",
+        "voi": "interpretate",
+        "loro": "interpretano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "interpretato",
+        "io": "ho interpretato",
+        "tu": "hai interpretato",
+        "lui": "ha interpretato",
+        "noi": "abbiamo interpretato",
+        "voi": "avete interpretato",
+        "loro": "hanno interpretato"
+      },
+      "imperfetto": {
+        "io": "interpretavo",
+        "tu": "interpretavi",
+        "lui": "interpretava",
+        "noi": "interpretavamo",
+        "voi": "interpretavate",
+        "loro": "interpretavano"
+      },
+      "futuroSemplice": {
+        "io": "interpreterò",
+        "tu": "interpreterai",
+        "lui": "interpreterà",
+        "noi": "interpreteremo",
+        "voi": "interpreterete",
+        "loro": "interpreteranno"
+      },
+      "condizionale": {
+        "io": "interpreterei",
+        "tu": "interpreteresti",
+        "lui": "interpreterebbe",
+        "noi": "interpreteremmo",
+        "voi": "interpretereste",
+        "loro": "interpreterebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "interpreti",
+        "tu": "interpreti",
+        "lui": "interpreti",
+        "noi": "interpretiamo",
+        "voi": "interpretiate",
+        "loro": "interpretino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Come interpreti questo?"
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1756",
+    "rank": 1756,
+    "lang": "it",
+    "italian": "fraintendere",
+    "english": "to misunderstand",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "ere",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "fraintendo",
+        "tu": "fraintendi",
+        "lui": "fraintende",
+        "noi": "fraintendiamo",
+        "voi": "fraintendete",
+        "loro": "fraintendono"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "frainteso",
+        "io": "ho frainteso",
+        "tu": "hai frainteso",
+        "lui": "ha frainteso",
+        "noi": "abbiamo frainteso",
+        "voi": "avete frainteso",
+        "loro": "hanno frainteso"
+      },
+      "imperfetto": {
+        "io": "fraintendevo",
+        "tu": "fraintendevi",
+        "lui": "fraintendeva",
+        "noi": "fraintendevamo",
+        "voi": "fraintendevate",
+        "loro": "fraintendevano"
+      },
+      "futuroSemplice": {
+        "io": "fraintenderò",
+        "tu": "fraintenderai",
+        "lui": "fraintenderà",
+        "noi": "fraintenderemo",
+        "voi": "fraintenderete",
+        "loro": "fraintenderanno"
+      },
+      "condizionale": {
+        "io": "fraintenderei",
+        "tu": "fraintenderesti",
+        "lui": "fraintenderebbe",
+        "noi": "fraintenderemmo",
+        "voi": "fraintendereste",
+        "loro": "fraintenderebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "fraintenda",
+        "tu": "fraintenda",
+        "lui": "fraintenda",
+        "noi": "fraintendiamo",
+        "voi": "fraintendiate",
+        "loro": "fraintendano"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Ho frainteso."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1757",
+    "rank": 1757,
+    "lang": "it",
+    "italian": "presupporre",
+    "english": "to assume/presuppose",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "ere",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "presupporreo",
+        "tu": "presupporrei",
+        "lui": "presupporree",
+        "noi": "presupporreiamo",
+        "voi": "presupporreete",
+        "loro": "presupporreono"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "presupposto",
+        "io": "ho presupposto",
+        "tu": "hai presupposto",
+        "lui": "ha presupposto",
+        "noi": "abbiamo presupposto",
+        "voi": "avete presupposto",
+        "loro": "hanno presupposto"
+      },
+      "imperfetto": {
+        "io": "presupporreevo",
+        "tu": "presupporreevi",
+        "lui": "presupporreeva",
+        "noi": "presupporreevamo",
+        "voi": "presupporreevate",
+        "loro": "presupporreevano"
+      },
+      "futuroSemplice": {
+        "io": "presupporreerò",
+        "tu": "presupporreerai",
+        "lui": "presupporreerà",
+        "noi": "presupporreeremo",
+        "voi": "presupporreerete",
+        "loro": "presupporreeranno"
+      },
+      "condizionale": {
+        "io": "presupporreerei",
+        "tu": "presupporreeresti",
+        "lui": "presupporreerebbe",
+        "noi": "presupporreeremmo",
+        "voi": "presupporreereste",
+        "loro": "presupporreerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "presupporrea",
+        "tu": "presupporrea",
+        "lui": "presupporrea",
+        "noi": "presupporreiamo",
+        "voi": "presupporreiate",
+        "loro": "presupporreano"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Presuppone che tu venga."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1758",
+    "rank": 1758,
+    "lang": "it",
+    "italian": "dedurre",
+    "english": "to deduce",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "ere",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "dedurreo",
+        "tu": "dedurrei",
+        "lui": "dedurree",
+        "noi": "dedurreiamo",
+        "voi": "dedurreete",
+        "loro": "dedurreono"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "dedotto",
+        "io": "ho dedotto",
+        "tu": "hai dedotto",
+        "lui": "ha dedotto",
+        "noi": "abbiamo dedotto",
+        "voi": "avete dedotto",
+        "loro": "hanno dedotto"
+      },
+      "imperfetto": {
+        "io": "dedurreevo",
+        "tu": "dedurreevi",
+        "lui": "dedurreeva",
+        "noi": "dedurreevamo",
+        "voi": "dedurreevate",
+        "loro": "dedurreevano"
+      },
+      "futuroSemplice": {
+        "io": "dedurreerò",
+        "tu": "dedurreerai",
+        "lui": "dedurreerà",
+        "noi": "dedurreeremo",
+        "voi": "dedurreerete",
+        "loro": "dedurreeranno"
+      },
+      "condizionale": {
+        "io": "dedurreerei",
+        "tu": "dedurreeresti",
+        "lui": "dedurreerebbe",
+        "noi": "dedurreeremmo",
+        "voi": "dedurreereste",
+        "loro": "dedurreerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "dedurrea",
+        "tu": "dedurrea",
+        "lui": "dedurrea",
+        "noi": "dedurreiamo",
+        "voi": "dedurreiate",
+        "loro": "dedurreano"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Da ciò deduco che."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1759",
+    "rank": 1759,
+    "lang": "it",
+    "italian": "indurre",
+    "english": "to induce",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "ere",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "indurreo",
+        "tu": "indurrei",
+        "lui": "indurree",
+        "noi": "indurreiamo",
+        "voi": "indurreete",
+        "loro": "indurreono"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "indotto",
+        "io": "ho indotto",
+        "tu": "hai indotto",
+        "lui": "ha indotto",
+        "noi": "abbiamo indotto",
+        "voi": "avete indotto",
+        "loro": "hanno indotto"
+      },
+      "imperfetto": {
+        "io": "indurreevo",
+        "tu": "indurreevi",
+        "lui": "indurreeva",
+        "noi": "indurreevamo",
+        "voi": "indurreevate",
+        "loro": "indurreevano"
+      },
+      "futuroSemplice": {
+        "io": "indurreerò",
+        "tu": "indurreerai",
+        "lui": "indurreerà",
+        "noi": "indurreeremo",
+        "voi": "indurreerete",
+        "loro": "indurreeranno"
+      },
+      "condizionale": {
+        "io": "indurreerei",
+        "tu": "indurreeresti",
+        "lui": "indurreerebbe",
+        "noi": "indurreeremmo",
+        "voi": "indurreereste",
+        "loro": "indurreerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "indurrea",
+        "tu": "indurrea",
+        "lui": "indurrea",
+        "noi": "indurreiamo",
+        "voi": "indurreiate",
+        "loro": "indurreano"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Cosa ti ha indotto a farlo?"
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1760",
+    "rank": 1760,
+    "lang": "it",
+    "italian": "astrarre",
+    "english": "to abstract",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "ere",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "astrarreo",
+        "tu": "astrarrei",
+        "lui": "astrarree",
+        "noi": "astrarreiamo",
+        "voi": "astrarreete",
+        "loro": "astrarreono"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "astratto",
+        "io": "ho astratto",
+        "tu": "hai astratto",
+        "lui": "ha astratto",
+        "noi": "abbiamo astratto",
+        "voi": "avete astratto",
+        "loro": "hanno astratto"
+      },
+      "imperfetto": {
+        "io": "astrarreevo",
+        "tu": "astrarreevi",
+        "lui": "astrarreeva",
+        "noi": "astrarreevamo",
+        "voi": "astrarreevate",
+        "loro": "astrarreevano"
+      },
+      "futuroSemplice": {
+        "io": "astrarreerò",
+        "tu": "astrarreerai",
+        "lui": "astrarreerà",
+        "noi": "astrarreeremo",
+        "voi": "astrarreerete",
+        "loro": "astrarreeranno"
+      },
+      "condizionale": {
+        "io": "astrarreerei",
+        "tu": "astrarreeresti",
+        "lui": "astrarreerebbe",
+        "noi": "astrarreeremmo",
+        "voi": "astrarreereste",
+        "loro": "astrarreerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "astrarrea",
+        "tu": "astrarrea",
+        "lui": "astrarrea",
+        "noi": "astrarreiamo",
+        "voi": "astrarreiate",
+        "loro": "astrarreano"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Bisogna astrarre dal concreto."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1761",
+    "rank": 1761,
+    "lang": "it",
+    "italian": "generalizzare",
+    "english": "to generalize",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "generalizzo",
+        "tu": "generalizzi",
+        "lui": "generalizza",
+        "noi": "generalizziamo",
+        "voi": "generalizzate",
+        "loro": "generalizzano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "generalizzato",
+        "io": "ho generalizzato",
+        "tu": "hai generalizzato",
+        "lui": "ha generalizzato",
+        "noi": "abbiamo generalizzato",
+        "voi": "avete generalizzato",
+        "loro": "hanno generalizzato"
+      },
+      "imperfetto": {
+        "io": "generalizzavo",
+        "tu": "generalizzavi",
+        "lui": "generalizzava",
+        "noi": "generalizzavamo",
+        "voi": "generalizzavate",
+        "loro": "generalizzavano"
+      },
+      "futuroSemplice": {
+        "io": "generalizzerò",
+        "tu": "generalizzerai",
+        "lui": "generalizzerà",
+        "noi": "generalizzeremo",
+        "voi": "generalizzerete",
+        "loro": "generalizzeranno"
+      },
+      "condizionale": {
+        "io": "generalizzerei",
+        "tu": "generalizzeresti",
+        "lui": "generalizzerebbe",
+        "noi": "generalizzeremmo",
+        "voi": "generalizzereste",
+        "loro": "generalizzerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "generalizzi",
+        "tu": "generalizzi",
+        "lui": "generalizzi",
+        "noi": "generalizziamo",
+        "voi": "generalizziate",
+        "loro": "generalizzino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Non generalizzare."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1762",
+    "rank": 1762,
+    "lang": "it",
+    "italian": "specificare",
+    "english": "to specify",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "specifico",
+        "tu": "specifici",
+        "lui": "specifica",
+        "noi": "specificiamo",
+        "voi": "specificate",
+        "loro": "specificano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "specificato",
+        "io": "ho specificato",
+        "tu": "hai specificato",
+        "lui": "ha specificato",
+        "noi": "abbiamo specificato",
+        "voi": "avete specificato",
+        "loro": "hanno specificato"
+      },
+      "imperfetto": {
+        "io": "specificavo",
+        "tu": "specificavi",
+        "lui": "specificava",
+        "noi": "specificavamo",
+        "voi": "specificavate",
+        "loro": "specificavano"
+      },
+      "futuroSemplice": {
+        "io": "specificerò",
+        "tu": "specificerai",
+        "lui": "specificerà",
+        "noi": "specificeremo",
+        "voi": "specificerete",
+        "loro": "specificeranno"
+      },
+      "condizionale": {
+        "io": "specificerei",
+        "tu": "specificeresti",
+        "lui": "specificerebbe",
+        "noi": "specificeremmo",
+        "voi": "specificereste",
+        "loro": "specificerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "specifici",
+        "tu": "specifici",
+        "lui": "specifici",
+        "noi": "specificiamo",
+        "voi": "specificiate",
+        "loro": "specificino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Specifica il problema."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1763",
+    "rank": 1763,
+    "lang": "it",
+    "italian": "qualificare",
+    "english": "to qualify",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "qualifico",
+        "tu": "qualifici",
+        "lui": "qualifica",
+        "noi": "qualificiamo",
+        "voi": "qualificate",
+        "loro": "qualificano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "qualificato",
+        "io": "ho qualificato",
+        "tu": "hai qualificato",
+        "lui": "ha qualificato",
+        "noi": "abbiamo qualificato",
+        "voi": "avete qualificato",
+        "loro": "hanno qualificato"
+      },
+      "imperfetto": {
+        "io": "qualificavo",
+        "tu": "qualificavi",
+        "lui": "qualificava",
+        "noi": "qualificavamo",
+        "voi": "qualificavate",
+        "loro": "qualificavano"
+      },
+      "futuroSemplice": {
+        "io": "qualificerò",
+        "tu": "qualificerai",
+        "lui": "qualificerà",
+        "noi": "qualificeremo",
+        "voi": "qualificerete",
+        "loro": "qualificeranno"
+      },
+      "condizionale": {
+        "io": "qualificerei",
+        "tu": "qualificeresti",
+        "lui": "qualificerebbe",
+        "noi": "qualificeremmo",
+        "voi": "qualificereste",
+        "loro": "qualificerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "qualifici",
+        "tu": "qualifici",
+        "lui": "qualifici",
+        "noi": "qualificiamo",
+        "voi": "qualificiate",
+        "loro": "qualificino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Devi qualificare l'affermazione."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1764",
+    "rank": 1764,
+    "lang": "it",
+    "italian": "quantificare",
+    "english": "to quantify",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "quantifico",
+        "tu": "quantifici",
+        "lui": "quantifica",
+        "noi": "quantificiamo",
+        "voi": "quantificate",
+        "loro": "quantificano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "quantificato",
+        "io": "ho quantificato",
+        "tu": "hai quantificato",
+        "lui": "ha quantificato",
+        "noi": "abbiamo quantificato",
+        "voi": "avete quantificato",
+        "loro": "hanno quantificato"
+      },
+      "imperfetto": {
+        "io": "quantificavo",
+        "tu": "quantificavi",
+        "lui": "quantificava",
+        "noi": "quantificavamo",
+        "voi": "quantificavate",
+        "loro": "quantificavano"
+      },
+      "futuroSemplice": {
+        "io": "quantificerò",
+        "tu": "quantificerai",
+        "lui": "quantificerà",
+        "noi": "quantificeremo",
+        "voi": "quantificerete",
+        "loro": "quantificeranno"
+      },
+      "condizionale": {
+        "io": "quantificerei",
+        "tu": "quantificeresti",
+        "lui": "quantificerebbe",
+        "noi": "quantificeremmo",
+        "voi": "quantificereste",
+        "loro": "quantificerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "quantifici",
+        "tu": "quantifici",
+        "lui": "quantifici",
+        "noi": "quantificiamo",
+        "voi": "quantificiate",
+        "loro": "quantificino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Quantifica il danno."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1765",
+    "rank": 1765,
+    "lang": "it",
+    "italian": "misurare",
+    "english": "to measure",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "misuro",
+        "tu": "misuri",
+        "lui": "misura",
+        "noi": "misuriamo",
+        "voi": "misurate",
+        "loro": "misurano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "misurato",
+        "io": "ho misurato",
+        "tu": "hai misurato",
+        "lui": "ha misurato",
+        "noi": "abbiamo misurato",
+        "voi": "avete misurato",
+        "loro": "hanno misurato"
+      },
+      "imperfetto": {
+        "io": "misuravo",
+        "tu": "misuravi",
+        "lui": "misurava",
+        "noi": "misuravamo",
+        "voi": "misuravate",
+        "loro": "misuravano"
+      },
+      "futuroSemplice": {
+        "io": "misurerò",
+        "tu": "misurerai",
+        "lui": "misurerà",
+        "noi": "misureremo",
+        "voi": "misurerete",
+        "loro": "misureranno"
+      },
+      "condizionale": {
+        "io": "misurerei",
+        "tu": "misureresti",
+        "lui": "misurerebbe",
+        "noi": "misureremmo",
+        "voi": "misurereste",
+        "loro": "misurerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "misuri",
+        "tu": "misuri",
+        "lui": "misuri",
+        "noi": "misuriamo",
+        "voi": "misuriate",
+        "loro": "misurino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Misura la distanza."
+    ],
+    "tags": [
+      "a2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1766",
+    "rank": 1766,
+    "lang": "it",
+    "italian": "calcolare",
+    "english": "to calculate",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "calcolo",
+        "tu": "calcoli",
+        "lui": "calcola",
+        "noi": "calcoliamo",
+        "voi": "calcolate",
+        "loro": "calcolano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "calcolato",
+        "io": "ho calcolato",
+        "tu": "hai calcolato",
+        "lui": "ha calcolato",
+        "noi": "abbiamo calcolato",
+        "voi": "avete calcolato",
+        "loro": "hanno calcolato"
+      },
+      "imperfetto": {
+        "io": "calcolavo",
+        "tu": "calcolavi",
+        "lui": "calcolava",
+        "noi": "calcolavamo",
+        "voi": "calcolavate",
+        "loro": "calcolavano"
+      },
+      "futuroSemplice": {
+        "io": "calcolerò",
+        "tu": "calcolerai",
+        "lui": "calcolerà",
+        "noi": "calcoleremo",
+        "voi": "calcolerete",
+        "loro": "calcoleranno"
+      },
+      "condizionale": {
+        "io": "calcolerei",
+        "tu": "calcoleresti",
+        "lui": "calcolerebbe",
+        "noi": "calcoleremmo",
+        "voi": "calcolereste",
+        "loro": "calcolerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "calcoli",
+        "tu": "calcoli",
+        "lui": "calcoli",
+        "noi": "calcoliamo",
+        "voi": "calcoliate",
+        "loro": "calcolino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Calcola il totale."
+    ],
+    "tags": [
+      "a2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1767",
+    "rank": 1767,
+    "lang": "it",
+    "italian": "stimare",
+    "english": "to estimate",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "stimo",
+        "tu": "stimi",
+        "lui": "stima",
+        "noi": "stimiamo",
+        "voi": "stimate",
+        "loro": "stimano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "stimato",
+        "io": "ho stimato",
+        "tu": "hai stimato",
+        "lui": "ha stimato",
+        "noi": "abbiamo stimato",
+        "voi": "avete stimato",
+        "loro": "hanno stimato"
+      },
+      "imperfetto": {
+        "io": "stimavo",
+        "tu": "stimavi",
+        "lui": "stimava",
+        "noi": "stimavamo",
+        "voi": "stimavate",
+        "loro": "stimavano"
+      },
+      "futuroSemplice": {
+        "io": "stimerò",
+        "tu": "stimerai",
+        "lui": "stimerà",
+        "noi": "stimeremo",
+        "voi": "stimerete",
+        "loro": "stimeranno"
+      },
+      "condizionale": {
+        "io": "stimerei",
+        "tu": "stimeresti",
+        "lui": "stimerebbe",
+        "noi": "stimeremmo",
+        "voi": "stimereste",
+        "loro": "stimerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "stimi",
+        "tu": "stimi",
+        "lui": "stimi",
+        "noi": "stimiamo",
+        "voi": "stimiate",
+        "loro": "stimino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Stimo il costo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1768",
+    "rank": 1768,
+    "lang": "it",
+    "italian": "proiettare",
+    "english": "to project/plan",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "proietto",
+        "tu": "proietti",
+        "lui": "proietta",
+        "noi": "proiettiamo",
+        "voi": "proiettate",
+        "loro": "proiettano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "proiettato",
+        "io": "ho proiettato",
+        "tu": "hai proiettato",
+        "lui": "ha proiettato",
+        "noi": "abbiamo proiettato",
+        "voi": "avete proiettato",
+        "loro": "hanno proiettato"
+      },
+      "imperfetto": {
+        "io": "proiettavo",
+        "tu": "proiettavi",
+        "lui": "proiettava",
+        "noi": "proiettavamo",
+        "voi": "proiettavate",
+        "loro": "proiettavano"
+      },
+      "futuroSemplice": {
+        "io": "proietterò",
+        "tu": "proietterai",
+        "lui": "proietterà",
+        "noi": "proietteremo",
+        "voi": "proietterete",
+        "loro": "proietteranno"
+      },
+      "condizionale": {
+        "io": "proietterei",
+        "tu": "proietteresti",
+        "lui": "proietterebbe",
+        "noi": "proietteremmo",
+        "voi": "proiettereste",
+        "loro": "proietterebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "proietti",
+        "tu": "proietti",
+        "lui": "proietti",
+        "noi": "proiettiamo",
+        "voi": "proiettiate",
+        "loro": "proiettino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Proietta i dati futuri."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1770",
+    "rank": 1770,
+    "lang": "it",
+    "italian": "pianificare",
+    "english": "to plan",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "pianifico",
+        "tu": "pianifici",
+        "lui": "pianifica",
+        "noi": "pianificiamo",
+        "voi": "pianificate",
+        "loro": "pianificano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "pianificato",
+        "io": "ho pianificato",
+        "tu": "hai pianificato",
+        "lui": "ha pianificato",
+        "noi": "abbiamo pianificato",
+        "voi": "avete pianificato",
+        "loro": "hanno pianificato"
+      },
+      "imperfetto": {
+        "io": "pianificavo",
+        "tu": "pianificavi",
+        "lui": "pianificava",
+        "noi": "pianificavamo",
+        "voi": "pianificavate",
+        "loro": "pianificavano"
+      },
+      "futuroSemplice": {
+        "io": "pianificerò",
+        "tu": "pianificerai",
+        "lui": "pianificerà",
+        "noi": "pianificeremo",
+        "voi": "pianificerete",
+        "loro": "pianificeranno"
+      },
+      "condizionale": {
+        "io": "pianificerei",
+        "tu": "pianificeresti",
+        "lui": "pianificerebbe",
+        "noi": "pianificeremmo",
+        "voi": "pianificereste",
+        "loro": "pianificerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "pianifici",
+        "tu": "pianifici",
+        "lui": "pianifici",
+        "noi": "pianificiamo",
+        "voi": "pianificiate",
+        "loro": "pianificino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Pianifica il lavoro."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1771",
+    "rank": 1771,
+    "lang": "it",
+    "italian": "programmare",
+    "english": "to program/schedule",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "programmo",
+        "tu": "programmi",
+        "lui": "programma",
+        "noi": "programmiamo",
+        "voi": "programmate",
+        "loro": "programmano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "programmato",
+        "io": "ho programmato",
+        "tu": "hai programmato",
+        "lui": "ha programmato",
+        "noi": "abbiamo programmato",
+        "voi": "avete programmato",
+        "loro": "hanno programmato"
+      },
+      "imperfetto": {
+        "io": "programmavo",
+        "tu": "programmavi",
+        "lui": "programmava",
+        "noi": "programmavamo",
+        "voi": "programmavate",
+        "loro": "programmavano"
+      },
+      "futuroSemplice": {
+        "io": "programmerò",
+        "tu": "programmerai",
+        "lui": "programmerà",
+        "noi": "programmeremo",
+        "voi": "programmerete",
+        "loro": "programmeranno"
+      },
+      "condizionale": {
+        "io": "programmerei",
+        "tu": "programmeresti",
+        "lui": "programmerebbe",
+        "noi": "programmeremmo",
+        "voi": "programmereste",
+        "loro": "programmerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "programmi",
+        "tu": "programmi",
+        "lui": "programmi",
+        "noi": "programmiamo",
+        "voi": "programmiate",
+        "loro": "programmino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Programma la settimana."
+    ],
+    "tags": [
+      "a2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1772",
+    "rank": 1772,
+    "lang": "it",
+    "italian": "schedulare",
+    "english": "to schedule",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "schedulo",
+        "tu": "scheduli",
+        "lui": "schedula",
+        "noi": "scheduliamo",
+        "voi": "schedulate",
+        "loro": "schedulano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "schedulato",
+        "io": "ho schedulato",
+        "tu": "hai schedulato",
+        "lui": "ha schedulato",
+        "noi": "abbiamo schedulato",
+        "voi": "avete schedulato",
+        "loro": "hanno schedulato"
+      },
+      "imperfetto": {
+        "io": "schedulavo",
+        "tu": "schedulavi",
+        "lui": "schedulava",
+        "noi": "schedulavamo",
+        "voi": "schedulavate",
+        "loro": "schedulavano"
+      },
+      "futuroSemplice": {
+        "io": "schedulerò",
+        "tu": "schedulerai",
+        "lui": "schedulerà",
+        "noi": "scheduleremo",
+        "voi": "schedulerete",
+        "loro": "scheduleranno"
+      },
+      "condizionale": {
+        "io": "schedulerei",
+        "tu": "scheduleresti",
+        "lui": "schedulerebbe",
+        "noi": "scheduleremmo",
+        "voi": "schedulereste",
+        "loro": "schedulerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "scheduli",
+        "tu": "scheduli",
+        "lui": "scheduli",
+        "noi": "scheduliamo",
+        "voi": "scheduliate",
+        "loro": "schedulino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Schedula un incontro."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1773",
+    "rank": 1773,
+    "lang": "it",
+    "italian": "coordinare",
+    "english": "to coordinate",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "coordino",
+        "tu": "coordini",
+        "lui": "coordina",
+        "noi": "coordiniamo",
+        "voi": "coordinate",
+        "loro": "coordinano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "coordinato",
+        "io": "ho coordinato",
+        "tu": "hai coordinato",
+        "lui": "ha coordinato",
+        "noi": "abbiamo coordinato",
+        "voi": "avete coordinato",
+        "loro": "hanno coordinato"
+      },
+      "imperfetto": {
+        "io": "coordinavo",
+        "tu": "coordinavi",
+        "lui": "coordinava",
+        "noi": "coordinavamo",
+        "voi": "coordinavate",
+        "loro": "coordinavano"
+      },
+      "futuroSemplice": {
+        "io": "coordinerò",
+        "tu": "coordinerai",
+        "lui": "coordinerà",
+        "noi": "coordineremo",
+        "voi": "coordinerete",
+        "loro": "coordineranno"
+      },
+      "condizionale": {
+        "io": "coordinerei",
+        "tu": "coordineresti",
+        "lui": "coordinerebbe",
+        "noi": "coordineremmo",
+        "voi": "coordinereste",
+        "loro": "coordinerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "coordini",
+        "tu": "coordini",
+        "lui": "coordini",
+        "noi": "coordiniamo",
+        "voi": "coordiniate",
+        "loro": "coordinino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Coordina il team."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1774",
+    "rank": 1774,
+    "lang": "it",
+    "italian": "supervisionare",
+    "english": "to supervise",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "supervisiono",
+        "tu": "supervisioni",
+        "lui": "supervisiona",
+        "noi": "supervisioniamo",
+        "voi": "supervisionate",
+        "loro": "supervisionano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "supervisionato",
+        "io": "ho supervisionato",
+        "tu": "hai supervisionato",
+        "lui": "ha supervisionato",
+        "noi": "abbiamo supervisionato",
+        "voi": "avete supervisionato",
+        "loro": "hanno supervisionato"
+      },
+      "imperfetto": {
+        "io": "supervisionavo",
+        "tu": "supervisionavi",
+        "lui": "supervisionava",
+        "noi": "supervisionavamo",
+        "voi": "supervisionavate",
+        "loro": "supervisionavano"
+      },
+      "futuroSemplice": {
+        "io": "supervisionerò",
+        "tu": "supervisionerai",
+        "lui": "supervisionerà",
+        "noi": "supervisioneremo",
+        "voi": "supervisionerete",
+        "loro": "supervisioneranno"
+      },
+      "condizionale": {
+        "io": "supervisionerei",
+        "tu": "supervisioneresti",
+        "lui": "supervisionerebbe",
+        "noi": "supervisioneremmo",
+        "voi": "supervisionereste",
+        "loro": "supervisionerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "supervisioni",
+        "tu": "supervisioni",
+        "lui": "supervisioni",
+        "noi": "supervisioniamo",
+        "voi": "supervisioniate",
+        "loro": "supervisionino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Supervisiona il progetto."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1775",
+    "rank": 1775,
+    "lang": "it",
+    "italian": "delegare",
+    "english": "to delegate",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "delego",
+        "tu": "delegi",
+        "lui": "delega",
+        "noi": "delegiamo",
+        "voi": "delegate",
+        "loro": "delegano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "delegato",
+        "io": "ho delegato",
+        "tu": "hai delegato",
+        "lui": "ha delegato",
+        "noi": "abbiamo delegato",
+        "voi": "avete delegato",
+        "loro": "hanno delegato"
+      },
+      "imperfetto": {
+        "io": "delegavo",
+        "tu": "delegavi",
+        "lui": "delegava",
+        "noi": "delegavamo",
+        "voi": "delegavate",
+        "loro": "delegavano"
+      },
+      "futuroSemplice": {
+        "io": "delegerò",
+        "tu": "delegerai",
+        "lui": "delegerà",
+        "noi": "delegeremo",
+        "voi": "delegerete",
+        "loro": "delegeranno"
+      },
+      "condizionale": {
+        "io": "delegerei",
+        "tu": "delegeresti",
+        "lui": "delegerebbe",
+        "noi": "delegeremmo",
+        "voi": "delegereste",
+        "loro": "delegerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "delegi",
+        "tu": "delegi",
+        "lui": "delegi",
+        "noi": "delegiamo",
+        "voi": "delegiate",
+        "loro": "delegino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Delega i compiti."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1776",
+    "rank": 1776,
+    "lang": "it",
+    "italian": "assegnare",
+    "english": "to assign",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "assegno",
+        "tu": "assegni",
+        "lui": "assegna",
+        "noi": "assegniamo",
+        "voi": "assegnate",
+        "loro": "assegnano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "assegnato",
+        "io": "ho assegnato",
+        "tu": "hai assegnato",
+        "lui": "ha assegnato",
+        "noi": "abbiamo assegnato",
+        "voi": "avete assegnato",
+        "loro": "hanno assegnato"
+      },
+      "imperfetto": {
+        "io": "assegnavo",
+        "tu": "assegnavi",
+        "lui": "assegnava",
+        "noi": "assegnavamo",
+        "voi": "assegnavate",
+        "loro": "assegnavano"
+      },
+      "futuroSemplice": {
+        "io": "assegnerò",
+        "tu": "assegnerai",
+        "lui": "assegnerà",
+        "noi": "assegneremo",
+        "voi": "assegnerete",
+        "loro": "assegneranno"
+      },
+      "condizionale": {
+        "io": "assegnerei",
+        "tu": "assegneresti",
+        "lui": "assegnerebbe",
+        "noi": "assegneremmo",
+        "voi": "assegnereste",
+        "loro": "assegnerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "assegni",
+        "tu": "assegni",
+        "lui": "assegni",
+        "noi": "assegniamo",
+        "voi": "assegniate",
+        "loro": "assegnino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Assegna il compito."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1777",
+    "rank": 1777,
+    "lang": "it",
+    "italian": "monitorare",
+    "english": "to monitor",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "monitoro",
+        "tu": "monitori",
+        "lui": "monitora",
+        "noi": "monitoriamo",
+        "voi": "monitorate",
+        "loro": "monitorano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "monitorato",
+        "io": "ho monitorato",
+        "tu": "hai monitorato",
+        "lui": "ha monitorato",
+        "noi": "abbiamo monitorato",
+        "voi": "avete monitorato",
+        "loro": "hanno monitorato"
+      },
+      "imperfetto": {
+        "io": "monitoravo",
+        "tu": "monitoravi",
+        "lui": "monitorava",
+        "noi": "monitoravamo",
+        "voi": "monitoravate",
+        "loro": "monitoravano"
+      },
+      "futuroSemplice": {
+        "io": "monitorerò",
+        "tu": "monitorerai",
+        "lui": "monitorerà",
+        "noi": "monitoreremo",
+        "voi": "monitorerete",
+        "loro": "monitoreranno"
+      },
+      "condizionale": {
+        "io": "monitorerei",
+        "tu": "monitoreresti",
+        "lui": "monitorerebbe",
+        "noi": "monitoreremmo",
+        "voi": "monitorereste",
+        "loro": "monitorerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "monitori",
+        "tu": "monitori",
+        "lui": "monitori",
+        "noi": "monitoriamo",
+        "voi": "monitoriate",
+        "loro": "monitorino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Monitora i progressi."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1779",
+    "rank": 1779,
+    "lang": "it",
+    "italian": "rendicontare",
+    "english": "to report/account for",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "rendiconto",
+        "tu": "rendiconti",
+        "lui": "rendiconta",
+        "noi": "rendicontiamo",
+        "voi": "rendicontate",
+        "loro": "rendicontano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "rendicontato",
+        "io": "ho rendicontato",
+        "tu": "hai rendicontato",
+        "lui": "ha rendicontato",
+        "noi": "abbiamo rendicontato",
+        "voi": "avete rendicontato",
+        "loro": "hanno rendicontato"
+      },
+      "imperfetto": {
+        "io": "rendicontavo",
+        "tu": "rendicontavi",
+        "lui": "rendicontava",
+        "noi": "rendicontavamo",
+        "voi": "rendicontavate",
+        "loro": "rendicontavano"
+      },
+      "futuroSemplice": {
+        "io": "rendiconterò",
+        "tu": "rendiconterai",
+        "lui": "rendiconterà",
+        "noi": "rendiconteremo",
+        "voi": "rendiconterete",
+        "loro": "rendiconteranno"
+      },
+      "condizionale": {
+        "io": "rendiconterei",
+        "tu": "rendiconteresti",
+        "lui": "rendiconterebbe",
+        "noi": "rendiconteremmo",
+        "voi": "rendicontereste",
+        "loro": "rendiconterebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "rendiconti",
+        "tu": "rendiconti",
+        "lui": "rendiconti",
+        "noi": "rendicontiamo",
+        "voi": "rendicontiate",
+        "loro": "rendicontino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Rendiconta le spese."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1780",
+    "rank": 1780,
+    "lang": "it",
+    "italian": "documentare",
+    "english": "to document",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "documento",
+        "tu": "documenti",
+        "lui": "documenta",
+        "noi": "documentiamo",
+        "voi": "documentate",
+        "loro": "documentano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "documentato",
+        "io": "ho documentato",
+        "tu": "hai documentato",
+        "lui": "ha documentato",
+        "noi": "abbiamo documentato",
+        "voi": "avete documentato",
+        "loro": "hanno documentato"
+      },
+      "imperfetto": {
+        "io": "documentavo",
+        "tu": "documentavi",
+        "lui": "documentava",
+        "noi": "documentavamo",
+        "voi": "documentavate",
+        "loro": "documentavano"
+      },
+      "futuroSemplice": {
+        "io": "documenterò",
+        "tu": "documenterai",
+        "lui": "documenterà",
+        "noi": "documenteremo",
+        "voi": "documenterete",
+        "loro": "documenteranno"
+      },
+      "condizionale": {
+        "io": "documenterei",
+        "tu": "documenteresti",
+        "lui": "documenterebbe",
+        "noi": "documenteremmo",
+        "voi": "documentereste",
+        "loro": "documenterebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "documenti",
+        "tu": "documenti",
+        "lui": "documenti",
+        "noi": "documentiamo",
+        "voi": "documentiate",
+        "loro": "documentino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Documenta il processo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1781",
+    "rank": 1781,
+    "lang": "it",
+    "italian": "attestare",
+    "english": "to certify/attest",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "attesto",
+        "tu": "attesti",
+        "lui": "attesta",
+        "noi": "attestiamo",
+        "voi": "attestate",
+        "loro": "attestano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "attestato",
+        "io": "ho attestato",
+        "tu": "hai attestato",
+        "lui": "ha attestato",
+        "noi": "abbiamo attestato",
+        "voi": "avete attestato",
+        "loro": "hanno attestato"
+      },
+      "imperfetto": {
+        "io": "attestavo",
+        "tu": "attestavi",
+        "lui": "attestava",
+        "noi": "attestavamo",
+        "voi": "attestavate",
+        "loro": "attestavano"
+      },
+      "futuroSemplice": {
+        "io": "attesterò",
+        "tu": "attesterai",
+        "lui": "attesterà",
+        "noi": "attesteremo",
+        "voi": "attesterete",
+        "loro": "attesteranno"
+      },
+      "condizionale": {
+        "io": "attesterei",
+        "tu": "attesteresti",
+        "lui": "attesterebbe",
+        "noi": "attesteremmo",
+        "voi": "attestereste",
+        "loro": "attesterebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "attesti",
+        "tu": "attesti",
+        "lui": "attesti",
+        "noi": "attestiamo",
+        "voi": "attestiate",
+        "loro": "attestino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Attesta la sua presenza."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1782",
+    "rank": 1782,
+    "lang": "it",
+    "italian": "certificare",
+    "english": "to certify",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "certifico",
+        "tu": "certifici",
+        "lui": "certifica",
+        "noi": "certificiamo",
+        "voi": "certificate",
+        "loro": "certificano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "certificato",
+        "io": "ho certificato",
+        "tu": "hai certificato",
+        "lui": "ha certificato",
+        "noi": "abbiamo certificato",
+        "voi": "avete certificato",
+        "loro": "hanno certificato"
+      },
+      "imperfetto": {
+        "io": "certificavo",
+        "tu": "certificavi",
+        "lui": "certificava",
+        "noi": "certificavamo",
+        "voi": "certificavate",
+        "loro": "certificavano"
+      },
+      "futuroSemplice": {
+        "io": "certificerò",
+        "tu": "certificerai",
+        "lui": "certificerà",
+        "noi": "certificeremo",
+        "voi": "certificerete",
+        "loro": "certificeranno"
+      },
+      "condizionale": {
+        "io": "certificerei",
+        "tu": "certificeresti",
+        "lui": "certificerebbe",
+        "noi": "certificeremmo",
+        "voi": "certificereste",
+        "loro": "certificerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "certifici",
+        "tu": "certifici",
+        "lui": "certifici",
+        "noi": "certificiamo",
+        "voi": "certificiate",
+        "loro": "certificino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Certifica i documenti."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1783",
+    "rank": 1783,
+    "lang": "it",
+    "italian": "autenticare",
+    "english": "to authenticate",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "autentico",
+        "tu": "autentici",
+        "lui": "autentica",
+        "noi": "autenticiamo",
+        "voi": "autenticate",
+        "loro": "autenticano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "autenticato",
+        "io": "ho autenticato",
+        "tu": "hai autenticato",
+        "lui": "ha autenticato",
+        "noi": "abbiamo autenticato",
+        "voi": "avete autenticato",
+        "loro": "hanno autenticato"
+      },
+      "imperfetto": {
+        "io": "autenticavo",
+        "tu": "autenticavi",
+        "lui": "autenticava",
+        "noi": "autenticavamo",
+        "voi": "autenticavate",
+        "loro": "autenticavano"
+      },
+      "futuroSemplice": {
+        "io": "autenticerò",
+        "tu": "autenticerai",
+        "lui": "autenticerà",
+        "noi": "autenticeremo",
+        "voi": "autenticerete",
+        "loro": "autenticeranno"
+      },
+      "condizionale": {
+        "io": "autenticerei",
+        "tu": "autenticeresti",
+        "lui": "autenticerebbe",
+        "noi": "autenticeremmo",
+        "voi": "autenticereste",
+        "loro": "autenticerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "autentici",
+        "tu": "autentici",
+        "lui": "autentici",
+        "noi": "autenticiamo",
+        "voi": "autenticiate",
+        "loro": "autenticino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Autentica la firma."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1784",
+    "rank": 1784,
+    "lang": "it",
+    "italian": "verificare",
+    "english": "to verify",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "verifico",
+        "tu": "verifici",
+        "lui": "verifica",
+        "noi": "verificiamo",
+        "voi": "verificate",
+        "loro": "verificano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "verificato",
+        "io": "ho verificato",
+        "tu": "hai verificato",
+        "lui": "ha verificato",
+        "noi": "abbiamo verificato",
+        "voi": "avete verificato",
+        "loro": "hanno verificato"
+      },
+      "imperfetto": {
+        "io": "verificavo",
+        "tu": "verificavi",
+        "lui": "verificava",
+        "noi": "verificavamo",
+        "voi": "verificavate",
+        "loro": "verificavano"
+      },
+      "futuroSemplice": {
+        "io": "verificerò",
+        "tu": "verificerai",
+        "lui": "verificerà",
+        "noi": "verificeremo",
+        "voi": "verificerete",
+        "loro": "verificeranno"
+      },
+      "condizionale": {
+        "io": "verificerei",
+        "tu": "verificeresti",
+        "lui": "verificerebbe",
+        "noi": "verificeremmo",
+        "voi": "verificereste",
+        "loro": "verificerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "verifici",
+        "tu": "verifici",
+        "lui": "verifici",
+        "noi": "verificiamo",
+        "voi": "verificiate",
+        "loro": "verificino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Verifica i dati."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1785",
+    "rank": 1785,
+    "lang": "it",
+    "italian": "esaminare",
+    "english": "to examine",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "esamino",
+        "tu": "esamini",
+        "lui": "esamina",
+        "noi": "esaminiamo",
+        "voi": "esaminate",
+        "loro": "esaminano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "esaminato",
+        "io": "ho esaminato",
+        "tu": "hai esaminato",
+        "lui": "ha esaminato",
+        "noi": "abbiamo esaminato",
+        "voi": "avete esaminato",
+        "loro": "hanno esaminato"
+      },
+      "imperfetto": {
+        "io": "esaminavo",
+        "tu": "esaminavi",
+        "lui": "esaminava",
+        "noi": "esaminavamo",
+        "voi": "esaminavate",
+        "loro": "esaminavano"
+      },
+      "futuroSemplice": {
+        "io": "esaminerò",
+        "tu": "esaminerai",
+        "lui": "esaminerà",
+        "noi": "esamineremo",
+        "voi": "esaminerete",
+        "loro": "esamineranno"
+      },
+      "condizionale": {
+        "io": "esaminerei",
+        "tu": "esamineresti",
+        "lui": "esaminerebbe",
+        "noi": "esamineremmo",
+        "voi": "esaminereste",
+        "loro": "esaminerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "esamini",
+        "tu": "esamini",
+        "lui": "esamini",
+        "noi": "esaminiamo",
+        "voi": "esaminiate",
+        "loro": "esaminino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Esamina il documento."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1786",
+    "rank": 1786,
+    "lang": "it",
+    "italian": "ispezionare",
+    "english": "to inspect",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "ispeziono",
+        "tu": "ispezioni",
+        "lui": "ispeziona",
+        "noi": "ispezioniamo",
+        "voi": "ispezionate",
+        "loro": "ispezionano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "ispezionato",
+        "io": "ho ispezionato",
+        "tu": "hai ispezionato",
+        "lui": "ha ispezionato",
+        "noi": "abbiamo ispezionato",
+        "voi": "avete ispezionato",
+        "loro": "hanno ispezionato"
+      },
+      "imperfetto": {
+        "io": "ispezionavo",
+        "tu": "ispezionavi",
+        "lui": "ispezionava",
+        "noi": "ispezionavamo",
+        "voi": "ispezionavate",
+        "loro": "ispezionavano"
+      },
+      "futuroSemplice": {
+        "io": "ispezionerò",
+        "tu": "ispezionerai",
+        "lui": "ispezionerà",
+        "noi": "ispezioneremo",
+        "voi": "ispezionerete",
+        "loro": "ispezioneranno"
+      },
+      "condizionale": {
+        "io": "ispezionerei",
+        "tu": "ispezioneresti",
+        "lui": "ispezionerebbe",
+        "noi": "ispezioneremmo",
+        "voi": "ispezionereste",
+        "loro": "ispezionerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "ispezioni",
+        "tu": "ispezioni",
+        "lui": "ispezioni",
+        "noi": "ispezioniamo",
+        "voi": "ispezioniate",
+        "loro": "ispezionino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Ispeziona l'edificio."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1787",
+    "rank": 1787,
+    "lang": "it",
+    "italian": "revisionare",
+    "english": "to revise/audit",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "revisiono",
+        "tu": "revisioni",
+        "lui": "revisiona",
+        "noi": "revisioniamo",
+        "voi": "revisionate",
+        "loro": "revisionano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "revisionato",
+        "io": "ho revisionato",
+        "tu": "hai revisionato",
+        "lui": "ha revisionato",
+        "noi": "abbiamo revisionato",
+        "voi": "avete revisionato",
+        "loro": "hanno revisionato"
+      },
+      "imperfetto": {
+        "io": "revisionavo",
+        "tu": "revisionavi",
+        "lui": "revisionava",
+        "noi": "revisionavamo",
+        "voi": "revisionavate",
+        "loro": "revisionavano"
+      },
+      "futuroSemplice": {
+        "io": "revisionerò",
+        "tu": "revisionerai",
+        "lui": "revisionerà",
+        "noi": "revisioneremo",
+        "voi": "revisionerete",
+        "loro": "revisioneranno"
+      },
+      "condizionale": {
+        "io": "revisionerei",
+        "tu": "revisioneresti",
+        "lui": "revisionerebbe",
+        "noi": "revisioneremmo",
+        "voi": "revisionereste",
+        "loro": "revisionerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "revisioni",
+        "tu": "revisioni",
+        "lui": "revisioni",
+        "noi": "revisioniamo",
+        "voi": "revisioniate",
+        "loro": "revisionino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Revisiona il testo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1789",
+    "rank": 1789,
+    "lang": "it",
+    "italian": "emendare",
+    "english": "to amend",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "emendo",
+        "tu": "emendi",
+        "lui": "emenda",
+        "noi": "emendiamo",
+        "voi": "emendate",
+        "loro": "emendano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "emendato",
+        "io": "ho emendato",
+        "tu": "hai emendato",
+        "lui": "ha emendato",
+        "noi": "abbiamo emendato",
+        "voi": "avete emendato",
+        "loro": "hanno emendato"
+      },
+      "imperfetto": {
+        "io": "emendavo",
+        "tu": "emendavi",
+        "lui": "emendava",
+        "noi": "emendavamo",
+        "voi": "emendavate",
+        "loro": "emendavano"
+      },
+      "futuroSemplice": {
+        "io": "emenderò",
+        "tu": "emenderai",
+        "lui": "emenderà",
+        "noi": "emenderemo",
+        "voi": "emenderete",
+        "loro": "emenderanno"
+      },
+      "condizionale": {
+        "io": "emenderei",
+        "tu": "emenderesti",
+        "lui": "emenderebbe",
+        "noi": "emenderemmo",
+        "voi": "emendereste",
+        "loro": "emenderebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "emendi",
+        "tu": "emendi",
+        "lui": "emendi",
+        "noi": "emendiamo",
+        "voi": "emendiate",
+        "loro": "emendino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Emenda la legge."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1790",
+    "rank": 1790,
+    "lang": "it",
+    "italian": "riformare",
+    "english": "to reform",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "riformo",
+        "tu": "riformi",
+        "lui": "riforma",
+        "noi": "riformiamo",
+        "voi": "riformate",
+        "loro": "riformano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "riformato",
+        "io": "ho riformato",
+        "tu": "hai riformato",
+        "lui": "ha riformato",
+        "noi": "abbiamo riformato",
+        "voi": "avete riformato",
+        "loro": "hanno riformato"
+      },
+      "imperfetto": {
+        "io": "riformavo",
+        "tu": "riformavi",
+        "lui": "riformava",
+        "noi": "riformavamo",
+        "voi": "riformavate",
+        "loro": "riformavano"
+      },
+      "futuroSemplice": {
+        "io": "riformerò",
+        "tu": "riformerai",
+        "lui": "riformerà",
+        "noi": "riformeremo",
+        "voi": "riformerete",
+        "loro": "riformeranno"
+      },
+      "condizionale": {
+        "io": "riformerei",
+        "tu": "riformeresti",
+        "lui": "riformerebbe",
+        "noi": "riformeremmo",
+        "voi": "riformereste",
+        "loro": "riformerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "riformi",
+        "tu": "riformi",
+        "lui": "riformi",
+        "noi": "riformiamo",
+        "voi": "riformiate",
+        "loro": "riformino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Riformare il sistema."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1791",
+    "rank": 1791,
+    "lang": "it",
+    "italian": "abolire",
+    "english": "to abolish",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "ire",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "abolo",
+        "tu": "aboli",
+        "lui": "abole",
+        "noi": "aboliamo",
+        "voi": "abolite",
+        "loro": "abolono"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "abolito",
+        "io": "ho abolito",
+        "tu": "hai abolito",
+        "lui": "ha abolito",
+        "noi": "abbiamo abolito",
+        "voi": "avete abolito",
+        "loro": "hanno abolito"
+      },
+      "imperfetto": {
+        "io": "abolivo",
+        "tu": "abolivi",
+        "lui": "aboliva",
+        "noi": "abolivamo",
+        "voi": "abolivate",
+        "loro": "abolivano"
+      },
+      "futuroSemplice": {
+        "io": "abolirò",
+        "tu": "abolirai",
+        "lui": "abolirà",
+        "noi": "aboliremo",
+        "voi": "abolirete",
+        "loro": "aboliranno"
+      },
+      "condizionale": {
+        "io": "abolirei",
+        "tu": "aboliresti",
+        "lui": "abolirebbe",
+        "noi": "aboliremmo",
+        "voi": "abolireste",
+        "loro": "abolirebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "abola",
+        "tu": "abola",
+        "lui": "abola",
+        "noi": "aboliamo",
+        "voi": "aboliate",
+        "loro": "abolano"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Hanno abolito la pena di morte."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1792",
+    "rank": 1792,
+    "lang": "it",
+    "italian": "ripristinare",
+    "english": "to restore/reinstate",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "ripristino",
+        "tu": "ripristini",
+        "lui": "ripristina",
+        "noi": "ripristiniamo",
+        "voi": "ripristinate",
+        "loro": "ripristinano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "ripristinato",
+        "io": "ho ripristinato",
+        "tu": "hai ripristinato",
+        "lui": "ha ripristinato",
+        "noi": "abbiamo ripristinato",
+        "voi": "avete ripristinato",
+        "loro": "hanno ripristinato"
+      },
+      "imperfetto": {
+        "io": "ripristinavo",
+        "tu": "ripristinavi",
+        "lui": "ripristinava",
+        "noi": "ripristinavamo",
+        "voi": "ripristinavate",
+        "loro": "ripristinavano"
+      },
+      "futuroSemplice": {
+        "io": "ripristinerò",
+        "tu": "ripristinerai",
+        "lui": "ripristinerà",
+        "noi": "ripristineremo",
+        "voi": "ripristinerete",
+        "loro": "ripristineranno"
+      },
+      "condizionale": {
+        "io": "ripristinerei",
+        "tu": "ripristineresti",
+        "lui": "ripristinerebbe",
+        "noi": "ripristineremmo",
+        "voi": "ripristinereste",
+        "loro": "ripristinerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "ripristini",
+        "tu": "ripristini",
+        "lui": "ripristini",
+        "noi": "ripristiniamo",
+        "voi": "ripristiniate",
+        "loro": "ripristinino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Ripristina le impostazioni."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1793",
+    "rank": 1793,
+    "lang": "it",
+    "italian": "implementare",
+    "english": "to implement",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "implemento",
+        "tu": "implementi",
+        "lui": "implementa",
+        "noi": "implementiamo",
+        "voi": "implementate",
+        "loro": "implementano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "implementato",
+        "io": "ho implementato",
+        "tu": "hai implementato",
+        "lui": "ha implementato",
+        "noi": "abbiamo implementato",
+        "voi": "avete implementato",
+        "loro": "hanno implementato"
+      },
+      "imperfetto": {
+        "io": "implementavo",
+        "tu": "implementavi",
+        "lui": "implementava",
+        "noi": "implementavamo",
+        "voi": "implementavate",
+        "loro": "implementavano"
+      },
+      "futuroSemplice": {
+        "io": "implementerò",
+        "tu": "implementerai",
+        "lui": "implementerà",
+        "noi": "implementeremo",
+        "voi": "implementerete",
+        "loro": "implementeranno"
+      },
+      "condizionale": {
+        "io": "implementerei",
+        "tu": "implementeresti",
+        "lui": "implementerebbe",
+        "noi": "implementeremmo",
+        "voi": "implementereste",
+        "loro": "implementerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "implementi",
+        "tu": "implementi",
+        "lui": "implementi",
+        "noi": "implementiamo",
+        "voi": "implementiate",
+        "loro": "implementino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Implementa il piano."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1794",
+    "rank": 1794,
+    "lang": "it",
+    "italian": "applicare",
+    "english": "to apply",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "applico",
+        "tu": "applici",
+        "lui": "applica",
+        "noi": "appliciamo",
+        "voi": "applicate",
+        "loro": "applicano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "applicato",
+        "io": "ho applicato",
+        "tu": "hai applicato",
+        "lui": "ha applicato",
+        "noi": "abbiamo applicato",
+        "voi": "avete applicato",
+        "loro": "hanno applicato"
+      },
+      "imperfetto": {
+        "io": "applicavo",
+        "tu": "applicavi",
+        "lui": "applicava",
+        "noi": "applicavamo",
+        "voi": "applicavate",
+        "loro": "applicavano"
+      },
+      "futuroSemplice": {
+        "io": "applicerò",
+        "tu": "applicerai",
+        "lui": "applicerà",
+        "noi": "appliceremo",
+        "voi": "applicerete",
+        "loro": "appliceranno"
+      },
+      "condizionale": {
+        "io": "applicerei",
+        "tu": "appliceresti",
+        "lui": "applicerebbe",
+        "noi": "appliceremmo",
+        "voi": "applicereste",
+        "loro": "applicerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "applici",
+        "tu": "applici",
+        "lui": "applici",
+        "noi": "appliciamo",
+        "voi": "appliciate",
+        "loro": "applicino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Applica la regola."
+    ],
+    "tags": [
+      "a2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1795",
+    "rank": 1795,
+    "lang": "it",
+    "italian": "eseguire",
+    "english": "to execute/carry out",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "ire",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "eseguo",
+        "tu": "esegui",
+        "lui": "esegue",
+        "noi": "eseguiamo",
+        "voi": "eseguite",
+        "loro": "eseguono"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "eseguito",
+        "io": "ho eseguito",
+        "tu": "hai eseguito",
+        "lui": "ha eseguito",
+        "noi": "abbiamo eseguito",
+        "voi": "avete eseguito",
+        "loro": "hanno eseguito"
+      },
+      "imperfetto": {
+        "io": "eseguivo",
+        "tu": "eseguivi",
+        "lui": "eseguiva",
+        "noi": "eseguivamo",
+        "voi": "eseguivate",
+        "loro": "eseguivano"
+      },
+      "futuroSemplice": {
+        "io": "eseguirò",
+        "tu": "eseguirai",
+        "lui": "eseguirà",
+        "noi": "eseguiremo",
+        "voi": "eseguirete",
+        "loro": "eseguiranno"
+      },
+      "condizionale": {
+        "io": "eseguirei",
+        "tu": "eseguiresti",
+        "lui": "eseguirebbe",
+        "noi": "eseguiremmo",
+        "voi": "eseguireste",
+        "loro": "eseguirebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "esegua",
+        "tu": "esegua",
+        "lui": "esegua",
+        "noi": "eseguiamo",
+        "voi": "eseguiate",
+        "loro": "eseguano"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Esegui il compito."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1796",
+    "rank": 1796,
+    "lang": "it",
+    "italian": "portare a termine",
+    "english": "to complete/carry out",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "portare a termineo",
+        "tu": "portare a terminei",
+        "lui": "portare a terminea",
+        "noi": "portare a termineiamo",
+        "voi": "portare a termineate",
+        "loro": "portare a termineano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "portato a termine",
+        "io": "ho portato a termine",
+        "tu": "hai portato a termine",
+        "lui": "ha portato a termine",
+        "noi": "abbiamo portato a termine",
+        "voi": "avete portato a termine",
+        "loro": "hanno portato a termine"
+      },
+      "imperfetto": {
+        "io": "portare a termineavo",
+        "tu": "portare a termineavi",
+        "lui": "portare a termineava",
+        "noi": "portare a termineavamo",
+        "voi": "portare a termineavate",
+        "loro": "portare a termineavano"
+      },
+      "futuroSemplice": {
+        "io": "portare a termineerò",
+        "tu": "portare a termineerai",
+        "lui": "portare a termineerà",
+        "noi": "portare a termineeremo",
+        "voi": "portare a termineerete",
+        "loro": "portare a termineeranno"
+      },
+      "condizionale": {
+        "io": "portare a termineerei",
+        "tu": "portare a termineeresti",
+        "lui": "portare a termineerebbe",
+        "noi": "portare a termineeremmo",
+        "voi": "portare a termineereste",
+        "loro": "portare a termineerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "portare a terminei",
+        "tu": "portare a terminei",
+        "lui": "portare a terminei",
+        "noi": "portare a termineiamo",
+        "voi": "portare a termineiate",
+        "loro": "portare a termineino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Porta a termine il progetto."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1797",
+    "rank": 1797,
+    "lang": "it",
+    "italian": "sospendere",
+    "english": "to suspend",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "ere",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "sospendo",
+        "tu": "sospendi",
+        "lui": "sospende",
+        "noi": "sospendiamo",
+        "voi": "sospendete",
+        "loro": "sospendono"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "sospeso",
+        "io": "ho sospeso",
+        "tu": "hai sospeso",
+        "lui": "ha sospeso",
+        "noi": "abbiamo sospeso",
+        "voi": "avete sospeso",
+        "loro": "hanno sospeso"
+      },
+      "imperfetto": {
+        "io": "sospendevo",
+        "tu": "sospendevi",
+        "lui": "sospendeva",
+        "noi": "sospendevamo",
+        "voi": "sospendevate",
+        "loro": "sospendevano"
+      },
+      "futuroSemplice": {
+        "io": "sospenderò",
+        "tu": "sospenderai",
+        "lui": "sospenderà",
+        "noi": "sospenderemo",
+        "voi": "sospenderete",
+        "loro": "sospenderanno"
+      },
+      "condizionale": {
+        "io": "sospenderei",
+        "tu": "sospenderesti",
+        "lui": "sospenderebbe",
+        "noi": "sospenderemmo",
+        "voi": "sospendereste",
+        "loro": "sospenderebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "sospenda",
+        "tu": "sospenda",
+        "lui": "sospenda",
+        "noi": "sospendiamo",
+        "voi": "sospendiate",
+        "loro": "sospendano"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Sospende il contratto."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1798",
+    "rank": 1798,
+    "lang": "it",
+    "italian": "revocare",
+    "english": "to revoke",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "revoco",
+        "tu": "revoci",
+        "lui": "revoca",
+        "noi": "revociamo",
+        "voi": "revocate",
+        "loro": "revocano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "revocato",
+        "io": "ho revocato",
+        "tu": "hai revocato",
+        "lui": "ha revocato",
+        "noi": "abbiamo revocato",
+        "voi": "avete revocato",
+        "loro": "hanno revocato"
+      },
+      "imperfetto": {
+        "io": "revocavo",
+        "tu": "revocavi",
+        "lui": "revocava",
+        "noi": "revocavamo",
+        "voi": "revocavate",
+        "loro": "revocavano"
+      },
+      "futuroSemplice": {
+        "io": "revocerò",
+        "tu": "revocerai",
+        "lui": "revocerà",
+        "noi": "revoceremo",
+        "voi": "revocerete",
+        "loro": "revoceranno"
+      },
+      "condizionale": {
+        "io": "revocerei",
+        "tu": "revoceresti",
+        "lui": "revocerebbe",
+        "noi": "revoceremmo",
+        "voi": "revocereste",
+        "loro": "revocerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "revoci",
+        "tu": "revoci",
+        "lui": "revoci",
+        "noi": "revociamo",
+        "voi": "revociate",
+        "loro": "revocino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Revoca la licenza."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1799",
+    "rank": 1799,
+    "lang": "it",
+    "italian": "annullare",
+    "english": "to cancel/annul",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "annullo",
+        "tu": "annulli",
+        "lui": "annulla",
+        "noi": "annulliamo",
+        "voi": "annullate",
+        "loro": "annullano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "annullato",
+        "io": "ho annullato",
+        "tu": "hai annullato",
+        "lui": "ha annullato",
+        "noi": "abbiamo annullato",
+        "voi": "avete annullato",
+        "loro": "hanno annullato"
+      },
+      "imperfetto": {
+        "io": "annullavo",
+        "tu": "annullavi",
+        "lui": "annullava",
+        "noi": "annullavamo",
+        "voi": "annullavate",
+        "loro": "annullavano"
+      },
+      "futuroSemplice": {
+        "io": "annullerò",
+        "tu": "annullerai",
+        "lui": "annullerà",
+        "noi": "annulleremo",
+        "voi": "annullerete",
+        "loro": "annulleranno"
+      },
+      "condizionale": {
+        "io": "annullerei",
+        "tu": "annulleresti",
+        "lui": "annullerebbe",
+        "noi": "annulleremmo",
+        "voi": "annullereste",
+        "loro": "annullerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "annulli",
+        "tu": "annulli",
+        "lui": "annulli",
+        "noi": "annulliamo",
+        "voi": "annulliate",
+        "loro": "annullino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Annulla l'ordine."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1800",
+    "rank": 1800,
+    "lang": "it",
+    "italian": "invalidare",
+    "english": "to invalidate",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "invalido",
+        "tu": "invalidi",
+        "lui": "invalida",
+        "noi": "invalidiamo",
+        "voi": "invalidate",
+        "loro": "invalidano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "invalidato",
+        "io": "ho invalidato",
+        "tu": "hai invalidato",
+        "lui": "ha invalidato",
+        "noi": "abbiamo invalidato",
+        "voi": "avete invalidato",
+        "loro": "hanno invalidato"
+      },
+      "imperfetto": {
+        "io": "invalidavo",
+        "tu": "invalidavi",
+        "lui": "invalidava",
+        "noi": "invalidavamo",
+        "voi": "invalidavate",
+        "loro": "invalidavano"
+      },
+      "futuroSemplice": {
+        "io": "invaliderò",
+        "tu": "invaliderai",
+        "lui": "invaliderà",
+        "noi": "invalideremo",
+        "voi": "invaliderete",
+        "loro": "invalideranno"
+      },
+      "condizionale": {
+        "io": "invaliderei",
+        "tu": "invalideresti",
+        "lui": "invaliderebbe",
+        "noi": "invalideremmo",
+        "voi": "invalidereste",
+        "loro": "invaliderebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "invalidi",
+        "tu": "invalidi",
+        "lui": "invalidi",
+        "noi": "invalidiamo",
+        "voi": "invalidiate",
+        "loro": "invalidino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Invalida l'accordo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1801",
+    "rank": 1801,
+    "lang": "it",
+    "italian": "ratificare",
+    "english": "to ratify",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "ratifico",
+        "tu": "ratifici",
+        "lui": "ratifica",
+        "noi": "ratificiamo",
+        "voi": "ratificate",
+        "loro": "ratificano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "ratificato",
+        "io": "ho ratificato",
+        "tu": "hai ratificato",
+        "lui": "ha ratificato",
+        "noi": "abbiamo ratificato",
+        "voi": "avete ratificato",
+        "loro": "hanno ratificato"
+      },
+      "imperfetto": {
+        "io": "ratificavo",
+        "tu": "ratificavi",
+        "lui": "ratificava",
+        "noi": "ratificavamo",
+        "voi": "ratificavate",
+        "loro": "ratificavano"
+      },
+      "futuroSemplice": {
+        "io": "ratificerò",
+        "tu": "ratificerai",
+        "lui": "ratificerà",
+        "noi": "ratificeremo",
+        "voi": "ratificerete",
+        "loro": "ratificeranno"
+      },
+      "condizionale": {
+        "io": "ratificerei",
+        "tu": "ratificeresti",
+        "lui": "ratificerebbe",
+        "noi": "ratificeremmo",
+        "voi": "ratificereste",
+        "loro": "ratificerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "ratifici",
+        "tu": "ratifici",
+        "lui": "ratifici",
+        "noi": "ratificiamo",
+        "voi": "ratificiate",
+        "loro": "ratificino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Ratifica il trattato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1802",
+    "rank": 1802,
+    "lang": "it",
+    "italian": "promulgare",
+    "english": "to promulgate",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "promulgo",
+        "tu": "promulgi",
+        "lui": "promulga",
+        "noi": "promulgiamo",
+        "voi": "promulgate",
+        "loro": "promulgano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "promulgato",
+        "io": "ho promulgato",
+        "tu": "hai promulgato",
+        "lui": "ha promulgato",
+        "noi": "abbiamo promulgato",
+        "voi": "avete promulgato",
+        "loro": "hanno promulgato"
+      },
+      "imperfetto": {
+        "io": "promulgavo",
+        "tu": "promulgavi",
+        "lui": "promulgava",
+        "noi": "promulgavamo",
+        "voi": "promulgavate",
+        "loro": "promulgavano"
+      },
+      "futuroSemplice": {
+        "io": "promulgerò",
+        "tu": "promulgerai",
+        "lui": "promulgerà",
+        "noi": "promulgeremo",
+        "voi": "promulgerete",
+        "loro": "promulgeranno"
+      },
+      "condizionale": {
+        "io": "promulgerei",
+        "tu": "promulgeresti",
+        "lui": "promulgerebbe",
+        "noi": "promulgeremmo",
+        "voi": "promulgereste",
+        "loro": "promulgerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "promulgi",
+        "tu": "promulgi",
+        "lui": "promulgi",
+        "noi": "promulgiamo",
+        "voi": "promulgiate",
+        "loro": "promulgino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Promulga la legge."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1804",
+    "rank": 1804,
+    "lang": "it",
+    "italian": "respingere",
+    "english": "to reject",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "ere",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "respingo",
+        "tu": "respingi",
+        "lui": "respinge",
+        "noi": "respingiamo",
+        "voi": "respingete",
+        "loro": "respingono"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "respinto",
+        "io": "ho respinto",
+        "tu": "hai respinto",
+        "lui": "ha respinto",
+        "noi": "abbiamo respinto",
+        "voi": "avete respinto",
+        "loro": "hanno respinto"
+      },
+      "imperfetto": {
+        "io": "respingevo",
+        "tu": "respingevi",
+        "lui": "respingeva",
+        "noi": "respingevamo",
+        "voi": "respingevate",
+        "loro": "respingevano"
+      },
+      "futuroSemplice": {
+        "io": "respingerò",
+        "tu": "respingerai",
+        "lui": "respingerà",
+        "noi": "respingeremo",
+        "voi": "respingerete",
+        "loro": "respingeranno"
+      },
+      "condizionale": {
+        "io": "respingerei",
+        "tu": "respingeresti",
+        "lui": "respingerebbe",
+        "noi": "respingeremmo",
+        "voi": "respingereste",
+        "loro": "respingerebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "respinga",
+        "tu": "respinga",
+        "lui": "respinga",
+        "noi": "respingiamo",
+        "voi": "respingiate",
+        "loro": "respingano"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Respinge la proposta."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1805",
+    "rank": 1805,
+    "lang": "it",
+    "italian": "adottare",
+    "english": "to adopt",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "adotto",
+        "tu": "adotti",
+        "lui": "adotta",
+        "noi": "adottiamo",
+        "voi": "adottate",
+        "loro": "adottano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "adottato",
+        "io": "ho adottato",
+        "tu": "hai adottato",
+        "lui": "ha adottato",
+        "noi": "abbiamo adottato",
+        "voi": "avete adottato",
+        "loro": "hanno adottato"
+      },
+      "imperfetto": {
+        "io": "adottavo",
+        "tu": "adottavi",
+        "lui": "adottava",
+        "noi": "adottavamo",
+        "voi": "adottavate",
+        "loro": "adottavano"
+      },
+      "futuroSemplice": {
+        "io": "adotterò",
+        "tu": "adotterai",
+        "lui": "adotterà",
+        "noi": "adotteremo",
+        "voi": "adotterete",
+        "loro": "adotteranno"
+      },
+      "condizionale": {
+        "io": "adotterei",
+        "tu": "adotteresti",
+        "lui": "adotterebbe",
+        "noi": "adotteremmo",
+        "voi": "adottereste",
+        "loro": "adotterebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "adotti",
+        "tu": "adotti",
+        "lui": "adotti",
+        "noi": "adottiamo",
+        "voi": "adottiate",
+        "loro": "adottino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Adottano una strategia."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1806",
+    "rank": 1806,
+    "lang": "it",
+    "italian": "rinviare",
+    "english": "to postpone",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "rinvio",
+        "tu": "rinvii",
+        "lui": "rinvia",
+        "noi": "rinviiamo",
+        "voi": "rinviate",
+        "loro": "rinviano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "rinviato",
+        "io": "ho rinviato",
+        "tu": "hai rinviato",
+        "lui": "ha rinviato",
+        "noi": "abbiamo rinviato",
+        "voi": "avete rinviato",
+        "loro": "hanno rinviato"
+      },
+      "imperfetto": {
+        "io": "rinviavo",
+        "tu": "rinviavi",
+        "lui": "rinviava",
+        "noi": "rinviavamo",
+        "voi": "rinviavate",
+        "loro": "rinviavano"
+      },
+      "futuroSemplice": {
+        "io": "rinvierò",
+        "tu": "rinvierai",
+        "lui": "rinvierà",
+        "noi": "rinvieremo",
+        "voi": "rinvierete",
+        "loro": "rinvieranno"
+      },
+      "condizionale": {
+        "io": "rinvierei",
+        "tu": "rinvieresti",
+        "lui": "rinvierebbe",
+        "noi": "rinvieremmo",
+        "voi": "rinviereste",
+        "loro": "rinvierebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "rinvii",
+        "tu": "rinvii",
+        "lui": "rinvii",
+        "noi": "rinviiamo",
+        "voi": "rinviiate",
+        "loro": "rinviino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Rinviano la riunione."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1807",
+    "rank": 1807,
+    "lang": "it",
+    "italian": "rimandare",
+    "english": "to postpone/send back",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "rimando",
+        "tu": "rimandi",
+        "lui": "rimanda",
+        "noi": "rimandiamo",
+        "voi": "rimandate",
+        "loro": "rimandano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "rimandato",
+        "io": "ho rimandato",
+        "tu": "hai rimandato",
+        "lui": "ha rimandato",
+        "noi": "abbiamo rimandato",
+        "voi": "avete rimandato",
+        "loro": "hanno rimandato"
+      },
+      "imperfetto": {
+        "io": "rimandavo",
+        "tu": "rimandavi",
+        "lui": "rimandava",
+        "noi": "rimandavamo",
+        "voi": "rimandavate",
+        "loro": "rimandavano"
+      },
+      "futuroSemplice": {
+        "io": "rimanderò",
+        "tu": "rimanderai",
+        "lui": "rimanderà",
+        "noi": "rimanderemo",
+        "voi": "rimanderete",
+        "loro": "rimanderanno"
+      },
+      "condizionale": {
+        "io": "rimanderei",
+        "tu": "rimanderesti",
+        "lui": "rimanderebbe",
+        "noi": "rimanderemmo",
+        "voi": "rimandereste",
+        "loro": "rimanderebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "rimandi",
+        "tu": "rimandi",
+        "lui": "rimandi",
+        "noi": "rimandiamo",
+        "voi": "rimandiate",
+        "loro": "rimandino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Rimanda la decisione."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1808",
+    "rank": 1808,
+    "lang": "it",
+    "italian": "anticipare",
+    "english": "to anticipate",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "anticipo",
+        "tu": "anticipi",
+        "lui": "anticipa",
+        "noi": "anticipiamo",
+        "voi": "anticipate",
+        "loro": "anticipano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "anticipato",
+        "io": "ho anticipato",
+        "tu": "hai anticipato",
+        "lui": "ha anticipato",
+        "noi": "abbiamo anticipato",
+        "voi": "avete anticipato",
+        "loro": "hanno anticipato"
+      },
+      "imperfetto": {
+        "io": "anticipavo",
+        "tu": "anticipavi",
+        "lui": "anticipava",
+        "noi": "anticipavamo",
+        "voi": "anticipavate",
+        "loro": "anticipavano"
+      },
+      "futuroSemplice": {
+        "io": "anticiperò",
+        "tu": "anticiperai",
+        "lui": "anticiperà",
+        "noi": "anticiperemo",
+        "voi": "anticiperete",
+        "loro": "anticiperanno"
+      },
+      "condizionale": {
+        "io": "anticiperei",
+        "tu": "anticiperesti",
+        "lui": "anticiperebbe",
+        "noi": "anticiperemmo",
+        "voi": "anticipereste",
+        "loro": "anticiperebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "anticipi",
+        "tu": "anticipi",
+        "lui": "anticipi",
+        "noi": "anticipiamo",
+        "voi": "anticipiate",
+        "loro": "anticipino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Anticipa i tempi."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1809",
+    "rank": 1809,
+    "lang": "it",
+    "italian": "accelerare",
+    "english": "to accelerate",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "accelero",
+        "tu": "acceleri",
+        "lui": "accelera",
+        "noi": "acceleriamo",
+        "voi": "accelerate",
+        "loro": "accelerano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "accelerato",
+        "io": "ho accelerato",
+        "tu": "hai accelerato",
+        "lui": "ha accelerato",
+        "noi": "abbiamo accelerato",
+        "voi": "avete accelerato",
+        "loro": "hanno accelerato"
+      },
+      "imperfetto": {
+        "io": "acceleravo",
+        "tu": "acceleravi",
+        "lui": "accelerava",
+        "noi": "acceleravamo",
+        "voi": "acceleravate",
+        "loro": "acceleravano"
+      },
+      "futuroSemplice": {
+        "io": "accelererò",
+        "tu": "accelererai",
+        "lui": "accelererà",
+        "noi": "accelereremo",
+        "voi": "accelererete",
+        "loro": "accelereranno"
+      },
+      "condizionale": {
+        "io": "accelererei",
+        "tu": "accelereresti",
+        "lui": "accelererebbe",
+        "noi": "accelereremmo",
+        "voi": "accelerereste",
+        "loro": "accelererebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "acceleri",
+        "tu": "acceleri",
+        "lui": "acceleri",
+        "noi": "acceleriamo",
+        "voi": "acceleriate",
+        "loro": "accelerino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Accelera il processo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1810",
+    "rank": 1810,
+    "lang": "it",
+    "italian": "rallentare",
+    "english": "to slow down",
+    "partOfSpeech": "verb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": "are",
+    "irregular": false,
+    "conjugations": {
+      "presente": {
+        "io": "rallento",
+        "tu": "rallenti",
+        "lui": "rallenta",
+        "noi": "rallentiamo",
+        "voi": "rallentate",
+        "loro": "rallentano"
+      },
+      "passatoProssimo": {
+        "auxiliary": "avere",
+        "pastParticiple": "rallentato",
+        "io": "ho rallentato",
+        "tu": "hai rallentato",
+        "lui": "ha rallentato",
+        "noi": "abbiamo rallentato",
+        "voi": "avete rallentato",
+        "loro": "hanno rallentato"
+      },
+      "imperfetto": {
+        "io": "rallentavo",
+        "tu": "rallentavi",
+        "lui": "rallentava",
+        "noi": "rallentavamo",
+        "voi": "rallentavate",
+        "loro": "rallentavano"
+      },
+      "futuroSemplice": {
+        "io": "rallenterò",
+        "tu": "rallenterai",
+        "lui": "rallenterà",
+        "noi": "rallenteremo",
+        "voi": "rallenterete",
+        "loro": "rallenteranno"
+      },
+      "condizionale": {
+        "io": "rallenterei",
+        "tu": "rallenteresti",
+        "lui": "rallenterebbe",
+        "noi": "rallenteremmo",
+        "voi": "rallentereste",
+        "loro": "rallenterebbero"
+      },
+      "congiuntivoPresente": {
+        "io": "rallenti",
+        "tu": "rallenti",
+        "lui": "rallenti",
+        "noi": "rallentiamo",
+        "voi": "rallentiate",
+        "loro": "rallentino"
+      }
+    },
+    "irregularForms": null,
+    "examples": [
+      "Rallenta!"
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1811",
+    "rank": 1811,
+    "lang": "it",
+    "italian": "paradigma",
+    "english": "paradigm",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "paradigmi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un cambiamento di paradigma."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1812",
+    "rank": 1812,
+    "lang": "it",
+    "italian": "concetto",
+    "english": "concept",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "concetti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un concetto chiave."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1813",
+    "rank": 1813,
+    "lang": "it",
+    "italian": "nozione",
+    "english": "notion",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "nozioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Le nozioni di base."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1814",
+    "rank": 1814,
+    "lang": "it",
+    "italian": "principio",
+    "english": "principle",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "principi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "I principi etici."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1815",
+    "rank": 1815,
+    "lang": "it",
+    "italian": "assioma",
+    "english": "axiom",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "assiomi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un assioma fondamentale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1816",
+    "rank": 1816,
+    "lang": "it",
+    "italian": "postulato",
+    "english": "postulate",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "postulati",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un postulato logico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1817",
+    "rank": 1817,
+    "lang": "it",
+    "italian": "tesi",
+    "english": "thesis — see 1064",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "tesi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Sostiene la sua tesi."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1818",
+    "rank": 1818,
+    "lang": "it",
+    "italian": "antitesi",
+    "english": "antithesis",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "antitesi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'antitesi è chiara."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1819",
+    "rank": 1819,
+    "lang": "it",
+    "italian": "sintesi",
+    "english": "synthesis",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "sintesi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una buona sintesi."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1820",
+    "rank": 1820,
+    "lang": "it",
+    "italian": "dialettica",
+    "english": "dialectics",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La dialettica hegeliana."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1821",
+    "rank": 1821,
+    "lang": "it",
+    "italian": "contraddizione",
+    "english": "contradiction",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "contraddizioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una contraddizione evidente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1822",
+    "rank": 1822,
+    "lang": "it",
+    "italian": "paradosso",
+    "english": "paradox",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "paradossi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un paradosso logico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1823",
+    "rank": 1823,
+    "lang": "it",
+    "italian": "ironia",
+    "english": "irony",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "ironie",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Con ironia."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1824",
+    "rank": 1824,
+    "lang": "it",
+    "italian": "sarcasmo",
+    "english": "sarcasm",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Pieno di sarcasmo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1825",
+    "rank": 1825,
+    "lang": "it",
+    "italian": "cinismo",
+    "english": "cynicism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il cinismo non aiuta."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1826",
+    "rank": 1826,
+    "lang": "it",
+    "italian": "scetticismo",
+    "english": "scepticism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Con sano scetticismo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1827",
+    "rank": 1827,
+    "lang": "it",
+    "italian": "dogma",
+    "english": "dogma",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "dogmi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un dogma religioso."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1828",
+    "rank": 1828,
+    "lang": "it",
+    "italian": "ideologia",
+    "english": "ideology",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "ideologie",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'ideologia politica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1829",
+    "rank": 1829,
+    "lang": "it",
+    "italian": "utopia",
+    "english": "utopia",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "utopie",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È pura utopia."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1830",
+    "rank": 1830,
+    "lang": "it",
+    "italian": "distopia",
+    "english": "dystopia",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "distopie",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una distopia futuristica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1831",
+    "rank": 1831,
+    "lang": "it",
+    "italian": "narrativa",
+    "english": "narrative/fiction",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "narrative",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una narrativa convincente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1832",
+    "rank": 1832,
+    "lang": "it",
+    "italian": "discorso",
+    "english": "discourse/speech",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "discorsi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il discorso politico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1833",
+    "rank": 1833,
+    "lang": "it",
+    "italian": "retorica",
+    "english": "rhetoric",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Pura retorica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1834",
+    "rank": 1834,
+    "lang": "it",
+    "italian": "propaganda",
+    "english": "propaganda",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La propaganda di regime."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1835",
+    "rank": 1835,
+    "lang": "it",
+    "italian": "censura",
+    "english": "censorship",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "censure",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La censura è inaccettabile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1836",
+    "rank": 1836,
+    "lang": "it",
+    "italian": "libertà di stampa",
+    "english": "freedom of the press",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La libertà di stampa."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1837",
+    "rank": 1837,
+    "lang": "it",
+    "italian": "pluralismo",
+    "english": "pluralism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il pluralismo è necessario."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1838",
+    "rank": 1838,
+    "lang": "it",
+    "italian": "consenso",
+    "english": "consensus",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "consensi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Cerca il consenso."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1839",
+    "rank": 1839,
+    "lang": "it",
+    "italian": "dissenso",
+    "english": "dissent",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "dissensi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il dissenso è legittimo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1840",
+    "rank": 1840,
+    "lang": "it",
+    "italian": "dibattito",
+    "english": "debate — see 795",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "dibattiti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un acceso dibattito."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1841",
+    "rank": 1841,
+    "lang": "it",
+    "italian": "referendum",
+    "english": "referendum",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "referendum",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un referendum popolare."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1842",
+    "rank": 1842,
+    "lang": "it",
+    "italian": "costituzione",
+    "english": "constitution",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "costituzioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La Costituzione italiana."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1843",
+    "rank": 1843,
+    "lang": "it",
+    "italian": "emendamento",
+    "english": "amendment",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "emendamenti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un emendamento alla legge."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1844",
+    "rank": 1844,
+    "lang": "it",
+    "italian": "decreto",
+    "english": "decree",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "decreti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un decreto legge."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1845",
+    "rank": 1845,
+    "lang": "it",
+    "italian": "circolare",
+    "english": "circular/memo",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "circolari",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una circolare ministeriale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1846",
+    "rank": 1846,
+    "lang": "it",
+    "italian": "normativa",
+    "english": "regulation",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "normative",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La normativa europea."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1847",
+    "rank": 1847,
+    "lang": "it",
+    "italian": "regolamento",
+    "english": "regulation/rulebook",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "regolamenti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il regolamento interno."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1848",
+    "rank": 1848,
+    "lang": "it",
+    "italian": "statuto",
+    "english": "statute/charter",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "statuti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Lo statuto dell'azienda."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1849",
+    "rank": 1849,
+    "lang": "it",
+    "italian": "codice penale",
+    "english": "penal code",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il codice penale italiano."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1850",
+    "rank": 1850,
+    "lang": "it",
+    "italian": "giurisdizione",
+    "english": "jurisdiction",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "giurisdizioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La giurisdizione del tribunale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1851",
+    "rank": 1851,
+    "lang": "it",
+    "italian": "tribunale",
+    "english": "court/tribunal",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "tribunali",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il tribunale decide."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1852",
+    "rank": 1852,
+    "lang": "it",
+    "italian": "corte",
+    "english": "court",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "corti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La Corte Suprema."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1853",
+    "rank": 1853,
+    "lang": "it",
+    "italian": "magistrato",
+    "english": "magistrate",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "magistrati",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il magistrato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1854",
+    "rank": 1854,
+    "lang": "it",
+    "italian": "pubblica accusa",
+    "english": "prosecution",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La pubblica accusa parla."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1855",
+    "rank": 1855,
+    "lang": "it",
+    "italian": "indagine",
+    "english": "investigation",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "indagini",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'indagine penale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1856",
+    "rank": 1856,
+    "lang": "it",
+    "italian": "inchiesta",
+    "english": "inquiry",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "inchieste",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una inchiesta giornalistica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1857",
+    "rank": 1857,
+    "lang": "it",
+    "italian": "testimonianza",
+    "english": "testimony",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "testimonianze",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una testimonianza credibile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1858",
+    "rank": 1858,
+    "lang": "it",
+    "italian": "perizia",
+    "english": "expert report",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "perizie",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La perizia del medico legale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1859",
+    "rank": 1859,
+    "lang": "it",
+    "italian": "esecutore",
+    "english": "executor",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "esecutori",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il testamento ha un esecutore."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1860",
+    "rank": 1860,
+    "lang": "it",
+    "italian": "eredità",
+    "english": "inheritance",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "eredità",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ha ricevuto una grande eredità."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1861",
+    "rank": 1861,
+    "lang": "it",
+    "italian": "testamento",
+    "english": "will/testament",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "testamenti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ha fatto testamento."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1862",
+    "rank": 1862,
+    "lang": "it",
+    "italian": "notaio",
+    "english": "notary",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "notai",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il notaio firma."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1863",
+    "rank": 1863,
+    "lang": "it",
+    "italian": "proprietà",
+    "english": "property",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "proprietà",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La proprietà privata."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1864",
+    "rank": 1864,
+    "lang": "it",
+    "italian": "possesso",
+    "english": "possession",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "possessi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il possesso del bene."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1865",
+    "rank": 1865,
+    "lang": "it",
+    "italian": "usufrutto",
+    "english": "usufruct",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "usufrutto",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ha l'usufrutto della casa."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1866",
+    "rank": 1866,
+    "lang": "it",
+    "italian": "ipoteca",
+    "english": "mortgage/lien",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "ipoteche",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'ipoteca sulla casa."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1867",
+    "rank": 1867,
+    "lang": "it",
+    "italian": "garanzia",
+    "english": "guarantee",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "garanzie",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una garanzia bancaria."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1868",
+    "rank": 1868,
+    "lang": "it",
+    "italian": "fideiussione",
+    "english": "surety bond",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "fideiussioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una fideiussione bancaria."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1869",
+    "rank": 1869,
+    "lang": "it",
+    "italian": "capitalismo",
+    "english": "capitalism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il capitalismo moderno."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1870",
+    "rank": 1870,
+    "lang": "it",
+    "italian": "socialismo",
+    "english": "socialism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il socialismo europeo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1871",
+    "rank": 1871,
+    "lang": "it",
+    "italian": "liberalismo",
+    "english": "liberalism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il liberalismo classico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1872",
+    "rank": 1872,
+    "lang": "it",
+    "italian": "nazionalismo",
+    "english": "nationalism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il nazionalismo è pericoloso."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1873",
+    "rank": 1873,
+    "lang": "it",
+    "italian": "globalizzazione",
+    "english": "globalization",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La globalizzazione dell'economia."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1874",
+    "rank": 1874,
+    "lang": "it",
+    "italian": "localismo",
+    "english": "localism",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il localismo esasperato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1875",
+    "rank": 1875,
+    "lang": "it",
+    "italian": "nazionalizzazione",
+    "english": "nationalization",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "nazionalizzazioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La nazionalizzazione dell'industria."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1876",
+    "rank": 1876,
+    "lang": "it",
+    "italian": "privatizzazione",
+    "english": "privatization",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "privatizzazioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La privatizzazione dei servizi."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1877",
+    "rank": 1877,
+    "lang": "it",
+    "italian": "monopolio",
+    "english": "monopoly",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "monopoli",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un monopolio di mercato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1878",
+    "rank": 1878,
+    "lang": "it",
+    "italian": "oligopolio",
+    "english": "oligopoly",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "oligopoli",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un oligopolio nel settore."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1879",
+    "rank": 1879,
+    "lang": "it",
+    "italian": "concorrenza",
+    "english": "competition",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La concorrenza è accesa."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1880",
+    "rank": 1880,
+    "lang": "it",
+    "italian": "cartello",
+    "english": "cartel",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "cartelli",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un cartello industriale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1881",
+    "rank": 1881,
+    "lang": "it",
+    "italian": "fusione",
+    "english": "merger",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "fusioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una fusione aziendale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1882",
+    "rank": 1882,
+    "lang": "it",
+    "italian": "acquisizione",
+    "english": "acquisition",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "acquisizioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'acquisizione ostile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1883",
+    "rank": 1883,
+    "lang": "it",
+    "italian": "scalata",
+    "english": "takeover",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "scalate",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una scalata in borsa."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1884",
+    "rank": 1884,
+    "lang": "it",
+    "italian": "liquidazione",
+    "english": "liquidation",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "liquidazioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La liquidazione dell'azienda."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1885",
+    "rank": 1885,
+    "lang": "it",
+    "italian": "bancarotta",
+    "english": "bankruptcy",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "bancarotte",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ha dichiarato bancarotta."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1886",
+    "rank": 1886,
+    "lang": "it",
+    "italian": "insolvenza",
+    "english": "insolvency",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Lo stato di insolvenza."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1887",
+    "rank": 1887,
+    "lang": "it",
+    "italian": "debito",
+    "english": "debt",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "debiti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ha molti debiti."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1888",
+    "rank": 1888,
+    "lang": "it",
+    "italian": "credito",
+    "english": "credit",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "crediti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ha un buon credito."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1889",
+    "rank": 1889,
+    "lang": "it",
+    "italian": "solvibilità",
+    "english": "solvency",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La solvibilità dell'azienda."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1890",
+    "rank": 1890,
+    "lang": "it",
+    "italian": "liquidità",
+    "english": "liquidity",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Problemi di liquidità."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1891",
+    "rank": 1891,
+    "lang": "it",
+    "italian": "capitalizzazione",
+    "english": "capitalization",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "capitalizzazioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La capitalizzazione di borsa."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1892",
+    "rank": 1892,
+    "lang": "it",
+    "italian": "dividendo",
+    "english": "dividend",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "dividendi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il dividendo annuale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1893",
+    "rank": 1893,
+    "lang": "it",
+    "italian": "rendimento",
+    "english": "yield/return",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "rendimenti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il rendimento dell'investimento."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1894",
+    "rank": 1894,
+    "lang": "it",
+    "italian": "portafoglio",
+    "english": "portfolio",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "portafogli",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il portafoglio di investimenti."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1895",
+    "rank": 1895,
+    "lang": "it",
+    "italian": "fondo",
+    "english": "fund",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "fondi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un fondo di investimento."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1896",
+    "rank": 1896,
+    "lang": "it",
+    "italian": "hedge fund",
+    "english": "hedge fund",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "hedge fund",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un hedge fund speculativo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1897",
+    "rank": 1897,
+    "lang": "it",
+    "italian": "speculazione",
+    "english": "speculation",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "speculazioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "La speculazione finanziaria."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1899",
+    "rank": 1899,
+    "lang": "it",
+    "italian": "derivato",
+    "english": "derivative",
+    "partOfSpeech": "noun",
+    "gender": "masculine",
+    "plural": "derivati",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "I derivati finanziari."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1900",
+    "rank": 1900,
+    "lang": "it",
+    "italian": "opzione",
+    "english": "option",
+    "partOfSpeech": "noun",
+    "gender": "feminine",
+    "plural": "opzioni",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'opzione di acquisto."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1901",
+    "rank": 1901,
+    "lang": "it",
+    "italian": "poliedrico",
+    "english": "multifaceted",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "poliedrici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un talento poliedrico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1902",
+    "rank": 1902,
+    "lang": "it",
+    "italian": "sfaccettato",
+    "english": "multifaceted",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "sfaccettati",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un carattere sfaccettato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1903",
+    "rank": 1903,
+    "lang": "it",
+    "italian": "ambivalente",
+    "english": "ambivalent",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "ambivalenti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un sentimento ambivalente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1905",
+    "rank": 1905,
+    "lang": "it",
+    "italian": "paradossale",
+    "english": "paradoxical",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "paradossali",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una situazione paradossale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1906",
+    "rank": 1906,
+    "lang": "it",
+    "italian": "enigmatico",
+    "english": "enigmatic",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "enigmatici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un sorriso enigmatico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1907",
+    "rank": 1907,
+    "lang": "it",
+    "italian": "emblematico",
+    "english": "emblematic",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "emblematici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un caso emblematico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1909",
+    "rank": 1909,
+    "lang": "it",
+    "italian": "esemplare",
+    "english": "exemplary",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "esemplari",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un comportamento esemplare."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1910",
+    "rank": 1910,
+    "lang": "it",
+    "italian": "paradigmatico",
+    "english": "paradigmatic",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "paradigmatici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un esempio paradigmatico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1911",
+    "rank": 1911,
+    "lang": "it",
+    "italian": "innovativo",
+    "english": "innovative",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "innovativi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un approccio innovativo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1912",
+    "rank": 1912,
+    "lang": "it",
+    "italian": "rivoluzionario",
+    "english": "revolutionary",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "rivoluzionari",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una scoperta rivoluzionaria."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1913",
+    "rank": 1913,
+    "lang": "it",
+    "italian": "pionieristico",
+    "english": "pioneering",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "pionieristici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un lavoro pionieristico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1914",
+    "rank": 1914,
+    "lang": "it",
+    "italian": "avanguardistico",
+    "english": "avant-garde",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "avanguardistici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'arte avanguardistica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1915",
+    "rank": 1915,
+    "lang": "it",
+    "italian": "convenzionale",
+    "english": "conventional",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "convenzionali",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un approccio convenzionale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1916",
+    "rank": 1916,
+    "lang": "it",
+    "italian": "non convenzionale",
+    "english": "unconventional",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "non convenzionali",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un metodo non convenzionale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1917",
+    "rank": 1917,
+    "lang": "it",
+    "italian": "sperimentale",
+    "english": "experimental",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "sperimentali",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un progetto sperimentale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1918",
+    "rank": 1918,
+    "lang": "it",
+    "italian": "all'avanguardia",
+    "english": "cutting-edge",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "all'avanguardia",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una tecnologia all'avanguardia."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1919",
+    "rank": 1919,
+    "lang": "it",
+    "italian": "obsoleto",
+    "english": "obsolete",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "obsoleti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un sistema obsoleto."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1920",
+    "rank": 1920,
+    "lang": "it",
+    "italian": "antiquato",
+    "english": "outdated",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "antiquati",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un metodo antiquato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1921",
+    "rank": 1921,
+    "lang": "it",
+    "italian": "contemporaneo",
+    "english": "contemporary",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "contemporanei",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "L'arte contemporanea."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1923",
+    "rank": 1923,
+    "lang": "it",
+    "italian": "prospettico",
+    "english": "prospective",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "prospettici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'analisi prospettica."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1924",
+    "rank": 1924,
+    "lang": "it",
+    "italian": "retrospettivo",
+    "english": "retrospective",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "retrospettivi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Uno sguardo retrospettivo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1925",
+    "rank": 1925,
+    "lang": "it",
+    "italian": "sistematico",
+    "english": "systematic",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "sistematici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un approccio sistematico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1926",
+    "rank": 1926,
+    "lang": "it",
+    "italian": "metodico",
+    "english": "methodical",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "metodici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È molto metodico."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1927",
+    "rank": 1927,
+    "lang": "it",
+    "italian": "rigoroso",
+    "english": "rigorous",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "rigorosi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'analisi rigorosa."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1928",
+    "rank": 1928,
+    "lang": "it",
+    "italian": "approfondito",
+    "english": "thorough/in-depth",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "approfonditi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'analisi approfondita."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1930",
+    "rank": 1930,
+    "lang": "it",
+    "italian": "accurato",
+    "english": "accurate/careful",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "accurati",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un lavoro accurato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1931",
+    "rank": 1931,
+    "lang": "it",
+    "italian": "impreciso",
+    "english": "imprecise",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "imprecisi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un calcolo impreciso."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1932",
+    "rank": 1932,
+    "lang": "it",
+    "italian": "attendibile",
+    "english": "reliable/credible",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "attendibili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una fonte attendibile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1933",
+    "rank": 1933,
+    "lang": "it",
+    "italian": "inattendibile",
+    "english": "unreliable",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "inattendibili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una fonte inattendibile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1934",
+    "rank": 1934,
+    "lang": "it",
+    "italian": "verosimile",
+    "english": "plausible",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "verosimili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una storia verosimile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1935",
+    "rank": 1935,
+    "lang": "it",
+    "italian": "inverosimile",
+    "english": "implausible",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "inverosimili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una scusa inverosimile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1936",
+    "rank": 1936,
+    "lang": "it",
+    "italian": "plausibile",
+    "english": "plausible",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "plausibili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una spiegazione plausibile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1937",
+    "rank": 1937,
+    "lang": "it",
+    "italian": "implausibile",
+    "english": "implausible",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "implausibili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un'ipotesi implausibile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1938",
+    "rank": 1938,
+    "lang": "it",
+    "italian": "credibile",
+    "english": "credible",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "credibili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un testimone credibile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1939",
+    "rank": 1939,
+    "lang": "it",
+    "italian": "incredibile",
+    "english": "incredible",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "incredibili",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È incredibile!"
+    ],
+    "tags": [
+      "a2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1940",
+    "rank": 1940,
+    "lang": "it",
+    "italian": "straordinario",
+    "english": "extraordinary",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "straordinari",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un risultato straordinario."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1941",
+    "rank": 1941,
+    "lang": "it",
+    "italian": "eccezionale",
+    "english": "exceptional",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "eccezionali",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un caso eccezionale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1942",
+    "rank": 1942,
+    "lang": "it",
+    "italian": "insolito",
+    "english": "unusual",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "insoliti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Una situazione insolita."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1943",
+    "rank": 1943,
+    "lang": "it",
+    "italian": "consueto",
+    "english": "usual/customary",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "consueti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Come di consueto."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1944",
+    "rank": 1944,
+    "lang": "it",
+    "italian": "abituale",
+    "english": "habitual/usual",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "abituali",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Il percorso abituale."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1945",
+    "rank": 1945,
+    "lang": "it",
+    "italian": "sporadico",
+    "english": "sporadic",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "sporadici",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Contatti sporadici."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1947",
+    "rank": 1947,
+    "lang": "it",
+    "italian": "incostante",
+    "english": "inconsistent",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "incostanti",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È incostante nel lavoro."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1948",
+    "rank": 1948,
+    "lang": "it",
+    "italian": "discontinuo",
+    "english": "discontinuous",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "discontinui",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un lavoro discontinuo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1949",
+    "rank": 1949,
+    "lang": "it",
+    "italian": "frammentato",
+    "english": "fragmented",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "frammentati",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un discorso frammentato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1950",
+    "rank": 1950,
+    "lang": "it",
+    "italian": "coeso",
+    "english": "cohesive",
+    "partOfSpeech": "adjective",
+    "gender": "masculine",
+    "plural": "coesi",
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Un gruppo coeso."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1951",
+    "rank": 1951,
+    "lang": "it",
+    "italian": "in modo efficace",
+    "english": "effectively",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Lavora in modo efficace."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1952",
+    "rank": 1952,
+    "lang": "it",
+    "italian": "in maniera appropriata",
+    "english": "appropriately",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Si comporta in maniera appropriata."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1953",
+    "rank": 1953,
+    "lang": "it",
+    "italian": "di conseguenza",
+    "english": "consequently",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Di conseguenza ho deciso."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1954",
+    "rank": 1954,
+    "lang": "it",
+    "italian": "pertanto",
+    "english": "therefore — see 651",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": "pertanto",
+    "tags": [
+      "—"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1955",
+    "rank": 1955,
+    "lang": "it",
+    "italian": "ciò nonostante",
+    "english": "nonetheless",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ciò nonostante, ho continuato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1956",
+    "rank": 1956,
+    "lang": "it",
+    "italian": "nondimeno",
+    "english": "nevertheless",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Nondimeno, vale la pena."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1957",
+    "rank": 1957,
+    "lang": "it",
+    "italian": "eppure",
+    "english": "and yet/but",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Eppure è vero."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1958",
+    "rank": 1958,
+    "lang": "it",
+    "italian": "tuttavia",
+    "english": "however — see 650",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": "tuttavia",
+    "tags": [
+      "—"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1959",
+    "rank": 1959,
+    "lang": "it",
+    "italian": "ad ogni modo",
+    "english": "at any rate",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ad ogni modo, procedo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1960",
+    "rank": 1960,
+    "lang": "it",
+    "italian": "in qualsiasi caso",
+    "english": "in any case",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In qualsiasi caso, ci vediamo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1961",
+    "rank": 1961,
+    "lang": "it",
+    "italian": "a prescindere da",
+    "english": "regardless of",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A prescindere dal risultato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1962",
+    "rank": 1962,
+    "lang": "it",
+    "italian": "nel migliore dei casi",
+    "english": "in the best case",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Nel migliore dei casi, riesce."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1963",
+    "rank": 1963,
+    "lang": "it",
+    "italian": "nel peggiore dei casi",
+    "english": "in the worst case",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Nel peggiore dei casi, fallisce."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1964",
+    "rank": 1964,
+    "lang": "it",
+    "italian": "a lungo andare",
+    "english": "in the long run",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A lungo andare, migliora."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1965",
+    "rank": 1965,
+    "lang": "it",
+    "italian": "a breve termine",
+    "english": "in the short term",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A breve termine è complicato."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1966",
+    "rank": 1966,
+    "lang": "it",
+    "italian": "a lungo termine",
+    "english": "in the long term",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A lungo termine è vantaggioso."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1967",
+    "rank": 1967,
+    "lang": "it",
+    "italian": "a medio termine",
+    "english": "in the medium term",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A medio termine è fattibile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1968",
+    "rank": 1968,
+    "lang": "it",
+    "italian": "nel corso del tempo",
+    "english": "over time",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Nel corso del tempo cambia."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1969",
+    "rank": 1969,
+    "lang": "it",
+    "italian": "con il passare del tempo",
+    "english": "as time goes by",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Con il passare del tempo capirà."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1970",
+    "rank": 1970,
+    "lang": "it",
+    "italian": "in linea di principio",
+    "english": "in principle",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In linea di principio sono d'accordo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1971",
+    "rank": 1971,
+    "lang": "it",
+    "italian": "in linea di massima",
+    "english": "in general/on the whole",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In linea di massima sì."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1972",
+    "rank": 1972,
+    "lang": "it",
+    "italian": "a grandi linee",
+    "english": "in broad strokes",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "A grandi linee, il piano è questo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1973",
+    "rank": 1973,
+    "lang": "it",
+    "italian": "nei dettagli",
+    "english": "in detail",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Analizziamo nei dettagli."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1974",
+    "rank": 1974,
+    "lang": "it",
+    "italian": "in dettaglio",
+    "english": "in detail",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Spiego in dettaglio."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1975",
+    "rank": 1975,
+    "lang": "it",
+    "italian": "globalmente",
+    "english": "globally/overall",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Globalmente è positivo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1976",
+    "rank": 1976,
+    "lang": "it",
+    "italian": "complessivamente",
+    "english": "overall",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Complessivamente bene."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1977",
+    "rank": 1977,
+    "lang": "it",
+    "italian": "parzialmente",
+    "english": "partially — see 1204",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": "parzialmente",
+    "tags": [
+      "—"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1978",
+    "rank": 1978,
+    "lang": "it",
+    "italian": "in parte",
+    "english": "partly",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È in parte corretto."
+    ],
+    "tags": [
+      "a2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1979",
+    "rank": 1979,
+    "lang": "it",
+    "italian": "sotto certi aspetti",
+    "english": "in some respects",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Sotto certi aspetti, sì."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1980",
+    "rank": 1980,
+    "lang": "it",
+    "italian": "da un certo punto di vista",
+    "english": "from a certain point of view",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Da un certo punto di vista."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1981",
+    "rank": 1981,
+    "lang": "it",
+    "italian": "in questo senso",
+    "english": "in this sense",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In questo senso, mi dispiace."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1982",
+    "rank": 1982,
+    "lang": "it",
+    "italian": "in tal senso",
+    "english": "in that sense",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "In tal senso dobbiamo agire."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1983",
+    "rank": 1983,
+    "lang": "it",
+    "italian": "per certi versi",
+    "english": "in some ways",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Per certi versi ha ragione."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1984",
+    "rank": 1984,
+    "lang": "it",
+    "italian": "sotto ogni aspetto",
+    "english": "in every respect",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "È perfetto sotto ogni aspetto."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1985",
+    "rank": 1985,
+    "lang": "it",
+    "italian": "con tutta probabilità",
+    "english": "in all probability",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Con tutta probabilità è così."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1986",
+    "rank": 1986,
+    "lang": "it",
+    "italian": "verosimilmente",
+    "english": "presumably",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Verosimilmente ha ragione."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1987",
+    "rank": 1987,
+    "lang": "it",
+    "italian": "presumibilmente",
+    "english": "presumably",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Presumibilmente arriverà."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1988",
+    "rank": 1988,
+    "lang": "it",
+    "italian": "ipoteticamente",
+    "english": "hypothetically",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ipoteticamente sì."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1989",
+    "rank": 1989,
+    "lang": "it",
+    "italian": "teoricamente",
+    "english": "theoretically",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Teoricamente è possibile."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1990",
+    "rank": 1990,
+    "lang": "it",
+    "italian": "concretamente",
+    "english": "concretely",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Concretamente cosa fai?"
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1991",
+    "rank": 1991,
+    "lang": "it",
+    "italian": "praticamente",
+    "english": "practically — see 1703",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": "praticamente",
+    "tags": [
+      "—"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1992",
+    "rank": 1992,
+    "lang": "it",
+    "italian": "realisticamente",
+    "english": "realistically",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Realisticamente ce la faccio."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1993",
+    "rank": 1993,
+    "lang": "it",
+    "italian": "idealmente",
+    "english": "ideally",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Idealmente dovremmo farlo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1994",
+    "rank": 1994,
+    "lang": "it",
+    "italian": "ottimisticamente",
+    "english": "optimistically",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ottimisticamente prevedo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1995",
+    "rank": 1995,
+    "lang": "it",
+    "italian": "pessimisticamente",
+    "english": "pessimistically",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Pessimisticamente temo."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1996",
+    "rank": 1996,
+    "lang": "it",
+    "italian": "obiettivamente",
+    "english": "objectively",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Obiettivamente parlando."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1997",
+    "rank": 1997,
+    "lang": "it",
+    "italian": "soggettivamente",
+    "english": "subjectively",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Soggettivamente preferirei."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1998",
+    "rank": 1998,
+    "lang": "it",
+    "italian": "criticamente",
+    "english": "critically",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Pensa criticamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_1999",
+    "rank": 1999,
+    "lang": "it",
+    "italian": "analiticamente",
+    "english": "analytically",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Ragiona analiticamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  },
+  {
+    "id": "it_2000",
+    "rank": 2000,
+    "lang": "it",
+    "italian": "sinteticamente",
+    "english": "synthetically/briefly",
+    "partOfSpeech": "adverb",
+    "gender": null,
+    "plural": null,
+    "conjugationGroup": null,
+    "irregular": false,
+    "conjugations": null,
+    "irregularForms": null,
+    "examples": [
+      "Spiega sinteticamente."
+    ],
+    "tags": [
+      "b2"
+    ],
+    "needsReview": false
+  }
+]
