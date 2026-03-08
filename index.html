@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#0f1117" />
+    <title>Italian Flashcards</title>
+    <script>
+      // Apply theme before React loads to prevent flash
+      try {
+        const t = localStorage.getItem('srs_theme');
+        if (t === 'light') document.documentElement.setAttribute('data-theme', 'light');
+      } catch {}
+    </script>
+    <script type="module" crossorigin src="/italian-flashcards/assets/index-FxSZwNWL.js"></script>
+    <link rel="modulepreload" crossorigin href="/italian-flashcards/assets/recharts-DGWjhfrn.js">
+    <link rel="stylesheet" crossorigin href="/italian-flashcards/assets/index-zcNmSxc0.css">
+  <link rel="manifest" href="/italian-flashcards/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/italian-flashcards/registerSW.js"></script></head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
