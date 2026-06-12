@@ -41,10 +41,43 @@ function addDays(days) {
  * 'good'  — interval = (first: 1, else round(interval*ease)), ease unchanged, streak++
  * 'easy'  — interval = (first: 3, else round(interval*ease*1.3)), ease+=0.15, streak++
  *
- * Status thresholds: interval>=90 → mastered, interval>0 → reviewing, else → learning
+ * Status thresholds: interval>=90 → mastered (30 for priority), interval>0 → reviewing, else → learning
+ * isPriority: caps interval at 30 days and lowers mastered threshold to 30
+ *
+ * Quick Sort special ratings (bypass normal SRS logic):
+ *   'know'  — immediately mastered, 30-day interval
+ *   'learn' — starts learning, 1-day interval
  */
-export function processRating(card, rating) {
+export function processRating(card, rating, isPriority = false) {
   let { interval, easeFactor, streak, timesCorrect, timesIncorrect } = card;
+
+  if (rating === 'know') {
+    return {
+      ...card,
+      interval: 30,
+      easeFactor,
+      streak: streak + 1,
+      timesCorrect: timesCorrect + 1,
+      timesIncorrect,
+      status: 'mastered',
+      lastSeen: today(),
+      nextDue: addDays(30),
+    };
+  }
+
+  if (rating === 'learn') {
+    return {
+      ...card,
+      interval: 1,
+      easeFactor,
+      streak: 0,
+      timesCorrect,
+      timesIncorrect,
+      status: 'learning',
+      lastSeen: today(),
+      nextDue: addDays(1),
+    };
+  }
 
   switch (rating) {
     case 'again':
@@ -74,10 +107,13 @@ export function processRating(card, rating) {
       break;
   }
 
+  const masteredThreshold = isPriority ? 30 : 90;
+  if (isPriority) interval = Math.min(interval, 30);
+
   const status =
-    interval >= 90 ? 'mastered' :
-    interval > 0   ? 'reviewing' :
-                     'learning';
+    interval >= masteredThreshold ? 'mastered' :
+    interval > 0                  ? 'reviewing' :
+                                    'learning';
 
   return {
     ...card,

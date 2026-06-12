@@ -48,7 +48,8 @@ export default defineConfig({
     rollupOptions: {
       output: {
         manualChunks: {
-          recharts: ['recharts'],
+          recharts:  ['recharts'],
+          supabase:  ['@supabase/supabase-js'],
         },
       },
     },

@@ -2,12 +2,15 @@ import { useState } from 'react';
 import WordInfo from '../components/WordInfo';
 import ConjugationTable from '../components/ConjugationTable';
 import { useProgress } from '../hooks/useProgress';
+import { usePriority } from '../hooks/usePriority';
 
-const STATUS_FILTERS = ['all', 'learning', 'reviewing', 'mastered'];
+const STATUS_FILTERS = ['all', 'starred', 'learning', 'reviewing', 'mastered'];
 const POS_FILTERS = ['all', 'noun', 'verb', 'adjective', 'preposition', 'article', 'other'];
 
 export default function ReviewPage({ words }) {
   const { getCard, resetWord } = useProgress();
+  const { isPriority, addPriority, removePriority, priorities } = usePriority();
+
   const [statusFilter, setStatusFilter] = useState('all');
   const [posFilter, setPosFilter] = useState('all');
   const [search, setSearch] = useState('');
@@ -15,10 +18,13 @@ export default function ReviewPage({ words }) {
 
   const filtered = words.filter((w) => {
     const card = getCard(w.id);
-    // Words never seen have no lastSeen; treat as 'new' for filter purposes
     const status = card.lastSeen ? (card.status ?? 'learning') : 'new';
 
-    if (statusFilter !== 'all' && status !== statusFilter) return false;
+    if (statusFilter === 'starred') {
+      if (!isPriority(w.id)) return false;
+    } else if (statusFilter !== 'all' && status !== statusFilter) {
+      return false;
+    }
 
     const knownPos = ['noun', 'verb', 'adjective', 'preposition', 'article'];
     if (posFilter === 'other' && knownPos.includes(w.partOfSpeech)) return false;
@@ -31,8 +37,27 @@ export default function ReviewPage({ words }) {
     return true;
   });
 
+  function toggleStar(e, wordId) {
+    e.stopPropagation();
+    if (isPriority(wordId)) removePriority(wordId);
+    else addPriority(wordId);
+  }
+
+  const starredCount = Object.keys(priorities).length;
+
   return (
     <div className="page page-review">
+      {/* Priority words section — shown when there are starred words */}
+      {starredCount > 0 && statusFilter !== 'starred' && (
+        <div className="priority-section-header" onClick={() => setStatusFilter('starred')}>
+          <span className="priority-section-icon">⭐</span>
+          <span className="priority-section-text">
+            {starredCount} Priority Word{starredCount !== 1 ? 's' : ''}
+          </span>
+          <span className="priority-section-link">View all →</span>
+        </div>
+      )}
+
       <div className="review-filters">
         <input
           className="search-input"
@@ -44,10 +69,10 @@ export default function ReviewPage({ words }) {
           {STATUS_FILTERS.map((f) => (
             <button
               key={f}
-              className={`filter-chip ${statusFilter === f ? 'filter-chip--active' : ''}`}
+              className={`filter-chip ${statusFilter === f ? 'filter-chip--active' : ''} ${f === 'starred' ? 'filter-chip--starred' : ''}`}
               onClick={() => setStatusFilter(f)}
             >
-              {f.charAt(0).toUpperCase() + f.slice(1)}
+              {f === 'starred' ? '⭐ Starred' : f.charAt(0).toUpperCase() + f.slice(1)}
             </button>
           ))}
         </div>
@@ -72,6 +97,9 @@ export default function ReviewPage({ words }) {
           const seen = !!card.lastSeen;
           const dotStatus = seen ? (card.status ?? 'learning') : 'new';
           const isOpen = expanded === w.id;
+          const starred = isPriority(w.id);
+          const starStreak = priorities[w.id]?.correctStreak ?? 0;
+
           return (
             <li key={w.id} className="word-item">
               <button
@@ -83,12 +111,31 @@ export default function ReviewPage({ words }) {
                   <span className="word-english">{w.english}</span>
                 </div>
                 <div className="word-item-meta">
+                  <button
+                    className={`star-btn ${starred ? 'star-btn--active' : ''}`}
+                    onClick={(e) => toggleStar(e, w.id)}
+                    title={starred ? `Remove priority (${starStreak}/7 correct)` : 'Add to priority'}
+                    aria-label={starred ? 'Remove priority' : 'Set priority'}
+                  >
+                    {starred ? '★' : '☆'}
+                  </button>
                   <span className={`status-dot status-dot--${dotStatus}`} />
                   <span className="word-item-chevron">{isOpen ? '▲' : '▼'}</span>
                 </div>
               </button>
               {isOpen && (
                 <div className="word-item-detail">
+                  {starred && (
+                    <div className="priority-streak-row">
+                      <span className="priority-streak-label">Priority streak:</span>
+                      <span className="priority-streak-pips">
+                        {Array.from({ length: 7 }, (_, i) => (
+                          <span key={i} className={`streak-pip ${i < starStreak ? 'streak-pip--filled' : ''}`} />
+                        ))}
+                      </span>
+                      <span className="priority-streak-count">{starStreak}/7</span>
+                    </div>
+                  )}
                   <WordInfo word={w} />
                   {w.conjugations && (
                     <ConjugationTable
@@ -107,14 +154,22 @@ export default function ReviewPage({ words }) {
                       <span>Never studied</span>
                     )}
                   </div>
-                  {seen && (
+                  <div className="word-item-actions">
                     <button
-                      className="btn btn-secondary btn-sm"
-                      onClick={() => { resetWord(w.id); setExpanded(null); }}
+                      className={`btn btn-sm ${starred ? 'btn-secondary' : 'btn-primary'}`}
+                      onClick={(e) => toggleStar(e, w.id)}
                     >
-                      Reset to New
+                      {starred ? '★ Remove priority' : '☆ Set priority'}
                     </button>
-                  )}
+                    {seen && (
+                      <button
+                        className="btn btn-secondary btn-sm"
+                        onClick={() => { resetWord(w.id); setExpanded(null); }}
+                      >
+                        Reset to New
+                      </button>
+                    )}
+                  </div>
                 </div>
               )}
             </li>

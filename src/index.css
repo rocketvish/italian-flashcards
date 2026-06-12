@@ -70,7 +70,7 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   display: flex;
   flex-direction: column;
   min-height: 100dvh;
-  max-width: 480px;
+  max-width: 860px;
   margin: 0 auto;
 }
 
@@ -96,6 +96,7 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .header-controls {
   display: flex;
   gap: 8px;
+  flex: 1;
 }
 
 .control-btn {
@@ -128,7 +129,7 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   left: 50%;
   transform: translateX(-50%);
   width: 100%;
-  max-width: 480px;
+  max-width: 860px;
   z-index: 10;
 }
 
@@ -153,6 +154,15 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .page {
   padding: 16px;
   min-height: calc(100dvh - var(--header-h) - var(--nav-h));
+}
+
+/* Study page overrides .page — exact height, no scroll at this level */
+.page-study {
+  padding: 0;
+  height: calc(100dvh - var(--header-h) - var(--nav-h));
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
 }
 
 .page-title {
@@ -237,21 +247,27 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 }
 
 .study-card-area {
-  padding: 8px 16px;
+  flex: 1;
+  min-height: 0;
+  padding: 4px 16px;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
 }
 
+.answer-buttons { flex-shrink: 0; }
+
 .study-footer {
+  flex-shrink: 0;
   display: flex;
   justify-content: center;
-  padding: 4px 16px 8px;
+  padding: 4px 16px 10px;
 }
 
 .flashcard {
   perspective: 1000px;
   width: 100%;
-  min-height: 220px;
+  flex: 1;
+  min-height: 0;
   cursor: pointer;
   user-select: none;
 }
@@ -259,7 +275,7 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .flashcard-inner {
   position: relative;
   width: 100%;
-  min-height: 220px;
+  height: 100%;
   transition: transform 0.45s cubic-bezier(0.4, 0, 0.2, 1);
   transform-style: preserve-3d;
 }
@@ -302,6 +318,15 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   font-size: 2rem;
   font-weight: 700;
   text-align: center;
+}
+
+.flashcard-word-note {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  text-align: center;
+  font-style: italic;
+  max-width: 280px;
+  line-height: 1.4;
 }
 
 .flashcard-hint {
@@ -393,7 +418,26 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   border-color: var(--accent);
 }
 
-.conj-body { background: var(--bg-elevated); border-radius: var(--radius-sm); padding: 10px; }
+/* Mobile: only the active tense block is visible; tabs control it */
+.conj-tense-block {
+  display: none;
+  background: var(--bg-elevated);
+  border-radius: var(--radius-sm);
+  padding: 10px;
+}
+.conj-tense-block--active { display: block; }
+
+/* Tense label shown on desktop (tabs are hidden there) */
+.conj-tense-name {
+  display: none;
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 6px;
+}
+
 .conj-aux { font-size: 0.75rem; color: var(--text-muted); margin-bottom: 8px; }
 
 .conj-grid { width: 100%; border-collapse: collapse; }
@@ -414,6 +458,31 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 }
 
 .conj-form.irregular, .irregular { color: var(--orange); font-weight: 600; }
+
+/* ─── Desktop layout (768px+) ───────────────────────────────── */
+@media (min-width: 768px) {
+  /* Conjugation: hide tabs, show all tenses in a responsive grid */
+  .conj-tabs { display: none; }
+
+  .conj-all-tenses {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 8px;
+  }
+
+  .conj-tense-block { display: block; } /* show all tenses */
+  .conj-tense-name  { display: block; } /* tense label replaces tabs */
+
+  /* Larger card text */
+  .flashcard-word { font-size: 2.5rem; }
+
+  /* Slightly more breathing room in study chrome */
+  .study-header   { padding: 14px 24px 10px; }
+  .answer-buttons { padding: 0 24px 14px; gap: 12px; }
+  .study-footer   { padding: 4px 24px 12px; }
+
+  .btn-again, .btn-hard, .btn-good, .btn-easy { padding: 14px 8px; font-size: 0.9rem; }
+}
 
 /* ─── Session summary ───────────────────────────────────────── */
 .session-summary {
@@ -579,6 +648,360 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .status-dot--learning  { background: var(--yellow); }
 .status-dot--reviewing { background: #60a5fa; }
 .status-dot--mastered  { background: #fbbf24; }
+
+/* ── Priority badge on flashcard ────────────────────────────────────────── */
+.flashcard-lang {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.flashcard-priority-badge {
+  font-size: 0.75rem;
+  line-height: 1;
+}
+
+/* ── Priority banner on Study page ──────────────────────────────────────── */
+.priority-banner {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 16px;
+  background: rgba(251, 191, 36, 0.1);
+  border-bottom: 1px solid rgba(251, 191, 36, 0.25);
+  font-size: 0.75rem;
+  flex-shrink: 0;
+}
+.priority-banner-icon { font-size: 0.85rem; }
+.priority-banner-text { font-weight: 600; color: #fbbf24; }
+.priority-banner-words { color: var(--text-muted); margin-left: 4px; }
+
+/* ── Quick Sort toggle button in study header ────────────────────────────── */
+.study-header-right {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.qs-toggle-btn {
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 4px 8px;
+  border-radius: 12px;
+  border: 1.5px solid var(--border);
+  background: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.qs-toggle-btn--on {
+  border-color: #fbbf24;
+  color: #fbbf24;
+  background: rgba(251, 191, 36, 0.12);
+}
+
+/* ── Quick Sort answer buttons (in-session mode) ─────────────────────────── */
+.qs-answer-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  padding: 0 16px 10px;
+  flex-shrink: 0;
+}
+
+.btn-qs-learn {
+  background: var(--orange);
+  color: #fff;
+  border-radius: var(--radius-sm);
+  padding: 16px 8px;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+.btn-qs-know {
+  background: var(--green);
+  color: #111;
+  border-radius: var(--radius-sm);
+  padding: 16px 8px;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+/* ── Quick Sort batch session header ─────────────────────────────────────── */
+.qs-session-header {
+  flex-shrink: 0;
+  padding: 8px 16px 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.qs-session-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.qs-batch-counter { font-size: 0.75rem; color: var(--text-muted); }
+.qs-sorted-counter { font-size: 0.75rem; color: var(--text-muted); }
+.qs-exit-btn {
+  align-self: flex-end;
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.7rem;
+  padding: 3px 10px;
+  border-radius: 12px;
+  cursor: pointer;
+  margin-top: 2px;
+}
+.qs-exit-btn:hover { border-color: var(--red); color: var(--red); }
+
+/* ── Quick Sort batch summary screen ─────────────────────────────────────── */
+.qs-summary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 32px 24px;
+  gap: 12px;
+  text-align: center;
+}
+.qs-summary-icon { font-size: 2.5rem; }
+.qs-summary-title { font-size: 1.5rem; font-weight: 700; margin: 0; }
+.qs-summary-sub { color: var(--text-muted); margin: 0; }
+
+.qs-buckets {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  width: 100%;
+  max-width: 280px;
+  margin: 8px 0;
+}
+.qs-bucket {
+  border-radius: var(--radius);
+  padding: 16px 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+.qs-bucket--know { background: rgba(74, 222, 128, 0.12); border: 1px solid rgba(74, 222, 128, 0.3); }
+.qs-bucket--learn { background: rgba(249, 115, 22, 0.12); border: 1px solid rgba(249, 115, 22, 0.3); }
+.qs-bucket-count { font-size: 1.8rem; font-weight: 700; }
+.qs-bucket--know .qs-bucket-count { color: var(--green); }
+.qs-bucket--learn .qs-bucket-count { color: var(--orange); }
+.qs-bucket-label { font-size: 0.78rem; color: var(--text-muted); }
+
+.qs-overall-progress { width: 100%; max-width: 280px; }
+.qs-overall-bar {
+  height: 6px;
+  background: var(--surface);
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 6px;
+}
+.qs-overall-fill {
+  height: 100%;
+  background: var(--accent);
+  border-radius: 3px;
+  transition: width 0.3s ease;
+}
+.qs-overall-text { font-size: 0.78rem; color: var(--text-muted); margin: 0; }
+
+.qs-summary-actions { display: flex; gap: 10px; margin-top: 8px; }
+
+/* ── Quick Sort prompt in empty state ────────────────────────────────────── */
+.qs-empty-prompt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 16px;
+  border: 1px dashed var(--border);
+  border-radius: var(--radius);
+  margin: 16px 0;
+  width: 100%;
+  max-width: 280px;
+}
+.qs-empty-text { color: var(--text-muted); font-size: 0.85rem; margin: 0; }
+.qs-empty-progress { font-size: 0.72rem; color: var(--text-muted); margin: 0; }
+
+/* ── Sort link in study footer ───────────────────────────────────────────── */
+.qs-sort-link {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 0.72rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 2px 0;
+  text-decoration: underline dotted;
+}
+.qs-sort-link:hover { color: #fbbf24; }
+.qs-sort-progress { color: var(--text-muted); font-variant-numeric: tabular-nums; }
+
+/* ── Star button in Review word list ─────────────────────────────────────── */
+.star-btn {
+  background: none;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  color: var(--text-muted);
+  padding: 0 4px;
+  line-height: 1;
+  transition: color 0.15s, transform 0.1s;
+}
+.star-btn:hover { color: #fbbf24; transform: scale(1.2); }
+.star-btn--active { color: #fbbf24; }
+
+/* ── Priority section header in Review ───────────────────────────────────── */
+.priority-section-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  background: rgba(251, 191, 36, 0.08);
+  border-bottom: 1px solid rgba(251, 191, 36, 0.2);
+  cursor: pointer;
+  font-size: 0.82rem;
+}
+.priority-section-icon { font-size: 0.95rem; }
+.priority-section-text { font-weight: 600; color: #fbbf24; flex: 1; }
+.priority-section-link { color: var(--text-muted); font-size: 0.72rem; }
+
+/* ── Starred filter chip ─────────────────────────────────────────────────── */
+.filter-chip--starred.filter-chip--active { background: #fbbf24; color: #111; }
+
+/* ── Priority streak pips in word detail ─────────────────────────────────── */
+.priority-streak-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 0;
+  font-size: 0.75rem;
+}
+.priority-streak-label { color: var(--text-muted); }
+.priority-streak-pips { display: flex; gap: 3px; }
+.streak-pip {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--border);
+}
+.streak-pip--filled { background: #fbbf24; }
+.priority-streak-count { color: #fbbf24; font-weight: 600; }
+
+/* ── Word item actions row ───────────────────────────────────────────────── */
+.word-item-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+/* ── Expand toggle (shared by PronounTable & NounDetails) ─────────────── */
+.expand-toggle {
+  margin-top: 10px;
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.72rem;
+  padding: 3px 10px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+}
+.expand-toggle:hover { border-color: var(--accent); color: var(--accent); }
+
+/* ── Pronoun paradigm table ──────────────────────────────────────────── */
+.pronoun-table-wrap { margin-top: 4px; }
+
+.pronoun-table-scroll {
+  margin-top: 8px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.pronoun-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.72rem;
+  min-width: 320px;
+}
+
+.pronoun-th {
+  text-align: center;
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  padding: 4px 6px;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+.pronoun-th-label { text-align: left; min-width: 72px; }
+
+.pronoun-row-label {
+  font-size: 0.65rem;
+  color: var(--text-muted);
+  padding: 4px 6px 4px 0;
+  white-space: nowrap;
+}
+
+.pronoun-cell {
+  text-align: center;
+  padding: 4px 6px;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+.pronoun-table tr:last-child .pronoun-cell,
+.pronoun-table tr:last-child .pronoun-row-label { border-bottom: none; }
+
+.pronoun-cell--highlight {
+  color: var(--accent);
+  font-weight: 700;
+  background: rgba(99, 102, 241, 0.12);
+  border-radius: 4px;
+}
+
+/* ── Noun details panel ──────────────────────────────────────────────── */
+.noun-details-wrap { margin-top: 4px; }
+
+.noun-details-panel {
+  margin-top: 8px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.noun-detail-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.noun-detail-label {
+  font-size: 0.68rem;
+  color: var(--text-muted);
+  width: 56px;
+  flex-shrink: 0;
+}
+
+.noun-detail-value {
+  font-size: 0.88rem;
+}
+
+.noun-article {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.noun-detail-muted { color: var(--text-muted); }
+
+.noun-irreg-badge { margin-left: 6px; }
 
 .word-item-chevron { font-size: 0.7rem; color: var(--text-muted); }
 
@@ -797,3 +1220,184 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   border-radius: var(--radius-sm);
 }
 .btn-ghost:hover { color: var(--text); }
+
+/* ─── Header: right side (sync + avatar) ───────────────── */
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: auto;
+}
+
+.header-user {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.user-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--border);
+}
+
+.user-avatar--lg {
+  width: 40px;
+  height: 40px;
+}
+
+/* ─── Sync Indicator ────────────────────────────────────── */
+.sync-indicator {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.sync-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.sync-indicator--idle    .sync-dot { background: #4ade80; }
+.sync-indicator--syncing .sync-dot { background: #facc15; animation: sync-pulse 1s infinite; }
+.sync-indicator--error   .sync-dot { background: #f87171; }
+.sync-indicator--offline .sync-dot { background: #9ca3af; }
+
+@keyframes sync-pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.3; }
+}
+
+.sync-indicator--idle    { color: #4ade80; }
+.sync-indicator--error   { color: #f87171; }
+
+/* ─── Login Page ────────────────────────────────────────── */
+.login-page {
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg);
+  padding: 24px;
+}
+
+.login-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 40px 32px;
+  width: 100%;
+  max-width: 360px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.login-flag  { font-size: 3rem; line-height: 1; }
+.login-title { font-size: 2rem; font-weight: 800; margin: 0; }
+
+.login-subtitle {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.login-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  margin-top: 8px;
+}
+
+.btn-google {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background: #fff;
+  color: #1f1f1f;
+  border-radius: var(--radius-sm);
+  padding: 12px 20px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border: 1px solid #dadce0;
+  transition: background 0.15s, box-shadow 0.15s;
+  width: 100%;
+}
+
+.btn-google:hover { background: #f8f8f8; box-shadow: 0 1px 4px rgba(0,0,0,0.15); }
+
+.btn-google--sm { padding: 9px 16px; font-size: 0.88rem; }
+
+.google-icon { width: 20px; height: 20px; flex-shrink: 0; }
+
+.login-guest-btn {
+  font-size: 0.88rem;
+  padding: 10px;
+  color: var(--text-muted);
+}
+
+.login-note {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin: 4px 0 0;
+  line-height: 1.4;
+}
+
+/* ─── Settings: Account & Sync section ─────────────────── */
+.sync-account-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.sync-account-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  overflow: hidden;
+}
+
+.sync-account-name {
+  font-weight: 600;
+  font-size: 0.95rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.sync-account-email {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.sync-status-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.sync-status-text { font-size: 0.85rem; color: var(--text-muted); }
+
+.sync-last-sync {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin: 0 0 12px;
+}
+
+.sync-guest { display: flex; flex-direction: column; gap: 12px; }
+.sync-guest-text { font-size: 0.9rem; color: var(--text-muted); margin: 0; }

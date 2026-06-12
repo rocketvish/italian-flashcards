@@ -13,10 +13,6 @@ const STATUS_COLORS = {
   Mastered:  '#fbbf24',
 };
 
-function todayStr() {
-  return new Date().toISOString().split('T')[0];
-}
-
 function daysAgoStr(n) {
   const d = new Date();
   d.setDate(d.getDate() - n);

@@ -4,19 +4,20 @@ import StudyPage from './pages/StudyPage';
 import ReviewPage from './pages/ReviewPage';
 import StatsPage from './pages/StatsPage';
 import SettingsPage from './pages/SettingsPage';
-import { useWordLoader } from './hooks/useWordLoader';
+import LoginPage from './pages/LoginPage';
 import InstallPrompt from './components/InstallPrompt';
+import SyncIndicator from './components/SyncIndicator';
+import { useWordLoader } from './hooks/useWordLoader';
+import { useAuth } from './hooks/useAuth';
+import { useSync } from './hooks/useSync';
 
 const DIRECTION_LABELS = { 'it-en': 'IT→EN', 'en-it': 'EN→IT', mixed: 'Mixed' };
 
-function Header({ direction, setDirection, batchSize, setBatchSize }) {
+function Header({ direction, setDirection, batchSize, setBatchSize, user, signOut, syncStatus }) {
   const location = useLocation();
   const PAGE_TITLES = {
-    '/': 'Study',
-    '/study': 'Study',
-    '/review': 'Review',
-    '/stats': 'Stats',
-    '/settings': 'Settings',
+    '/': 'Study', '/study': 'Study', '/review': 'Review',
+    '/stats': 'Stats', '/settings': 'Settings',
   };
   const title = PAGE_TITLES[location.pathname] ?? 'Italian';
 
@@ -48,15 +49,33 @@ function Header({ direction, setDirection, batchSize, setBatchSize }) {
           </button>
         </div>
       )}
+      {user && (
+        <div className="header-right">
+          <SyncIndicator status={syncStatus} />
+          <div className="header-user">
+            {user.user_metadata?.avatar_url && (
+              <img
+                className="user-avatar"
+                src={user.user_metadata.avatar_url}
+                alt={user.user_metadata?.full_name ?? 'User'}
+                referrerPolicy="no-referrer"
+              />
+            )}
+            <button className="control-btn" onClick={signOut} title="Sign out">
+              Sign out
+            </button>
+          </div>
+        </div>
+      )}
     </header>
   );
 }
 
 function BottomNav() {
   const navItems = [
-    { to: '/study', label: 'Study', icon: '📚' },
-    { to: '/review', label: 'Review', icon: '🔍' },
-    { to: '/stats', label: 'Stats', icon: '📊' },
+    { to: '/study',    label: 'Study',    icon: '📚' },
+    { to: '/review',   label: 'Review',   icon: '🔍' },
+    { to: '/stats',    label: 'Stats',    icon: '📊' },
     { to: '/settings', label: 'Settings', icon: '⚙️' },
   ];
   return (
@@ -76,6 +95,10 @@ function BottomNav() {
 }
 
 function AppInner() {
+  const { user, loading: authLoading, signInWithGoogle, signOut } = useAuth();
+  const [guest, setGuest] = useState(() => !!localStorage.getItem('srs_guest'));
+  const { status: syncStatus, lastSyncAt, syncNow } = useSync(user);
+
   const [direction, setDirection] = useState(
     () => localStorage.getItem('srs_direction') ?? 'it-en'
   );
@@ -85,7 +108,7 @@ function AppInner() {
   const [theme, setTheme] = useState(
     () => localStorage.getItem('srs_theme') ?? 'dark'
   );
-  const { words, loading, error } = useWordLoader();
+  const { words, loading: wordsLoading, error } = useWordLoader();
 
   useEffect(() => { localStorage.setItem('srs_direction', direction); }, [direction]);
   useEffect(() => { localStorage.setItem('srs_batchSize', String(batchSize)); }, [batchSize]);
@@ -94,7 +117,25 @@ function AppInner() {
     document.documentElement.setAttribute('data-theme', theme === 'light' ? 'light' : '');
   }, [theme]);
 
-  if (loading) {
+  if (authLoading) {
+    return (
+      <div className="loading-screen">
+        <div className="loading-spinner" />
+        <p>Loading…</p>
+      </div>
+    );
+  }
+
+  if (!user && !guest) {
+    return (
+      <LoginPage
+        onSignInWithGoogle={signInWithGoogle}
+        onGuest={() => { localStorage.setItem('srs_guest', '1'); setGuest(true); }}
+      />
+    );
+  }
+
+  if (wordsLoading) {
     return (
       <div className="loading-screen">
         <div className="loading-spinner" />
@@ -119,6 +160,9 @@ function AppInner() {
         setDirection={setDirection}
         batchSize={batchSize}
         setBatchSize={setBatchSize}
+        user={user}
+        signOut={signOut}
+        syncStatus={syncStatus}
       />
       <main className="app-main">
         <Routes>
@@ -136,6 +180,11 @@ function AppInner() {
                 setBatchSize={setBatchSize}
                 theme={theme}
                 setTheme={setTheme}
+                user={user}
+                signInWithGoogle={signInWithGoogle}
+                syncStatus={syncStatus}
+                lastSyncAt={lastSyncAt}
+                syncNow={syncNow}
               />
             }
           />

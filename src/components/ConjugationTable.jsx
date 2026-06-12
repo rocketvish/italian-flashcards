@@ -1,11 +1,11 @@
 import { useState } from 'react';
 
 const TENSE_LABELS = {
-  presente: 'Presente',
-  passatoProssimo: 'Passato Prossimo',
-  imperfetto: 'Imperfetto',
-  futuroSemplice: 'Futuro',
-  condizionale: 'Condizionale',
+  presente:            'Presente',
+  passatoProssimo:     'Passato Prossimo',
+  imperfetto:          'Imperfetto',
+  futuroSemplice:      'Futuro',
+  condizionale:        'Condizionale',
   congiuntivoPresente: 'Congiuntivo',
 };
 
@@ -17,11 +17,12 @@ export default function ConjugationTable({ conjugations, irregularForms }) {
 
   if (!conjugations || tenses.length === 0) return null;
 
-  const tenseData = conjugations[activeTense] ?? {};
-  const irregulars = irregularForms?.[activeTense] ?? [];
+  function stopProp(e) { e.stopPropagation(); }
 
   return (
-    <div className="conjugation-table">
+    <div className="conjugation-table" onClick={stopProp} onTouchStart={stopProp} onTouchEnd={stopProp}>
+
+      {/* Mobile: tab bar to switch tenses */}
       <div className="conj-tabs">
         {tenses.map((t) => (
           <button
@@ -34,27 +35,37 @@ export default function ConjugationTable({ conjugations, irregularForms }) {
         ))}
       </div>
 
-      <div className="conj-body">
-        {activeTense === 'passatoProssimo' && tenseData.auxiliary && (
-          <div className="conj-aux">
-            aux: <strong>{tenseData.auxiliary}</strong> &nbsp;|&nbsp; pp:{' '}
-            <strong className={irregulars.includes('pastParticiple') ? 'irregular' : ''}>
-              {tenseData.pastParticiple}
-            </strong>
-          </div>
-        )}
-        <table className="conj-grid">
-          <tbody>
-            {PRONOUNS.map((pronoun) => (
-              <tr key={pronoun}>
-                <td className="conj-pronoun">{pronoun}</td>
-                <td className={`conj-form ${irregulars.includes(pronoun) ? 'irregular' : ''}`}>
-                  {tenseData[pronoun] ?? '—'}
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+      {/* All tense blocks: CSS shows active-only on mobile, all on desktop */}
+      <div className="conj-all-tenses">
+        {tenses.map((t) => {
+          const data     = conjugations[t] ?? {};
+          const irreguls = irregularForms?.[t] ?? [];
+          return (
+            <div key={t} className={`conj-tense-block ${t === activeTense ? 'conj-tense-block--active' : ''}`}>
+              <div className="conj-tense-name">{TENSE_LABELS[t] ?? t}</div>
+              {t === 'passatoProssimo' && data.auxiliary && (
+                <div className="conj-aux">
+                  aux: <strong>{data.auxiliary}</strong> &nbsp;|&nbsp; pp:{' '}
+                  <strong className={irreguls.includes('pastParticiple') ? 'irregular' : ''}>
+                    {data.pastParticiple}
+                  </strong>
+                </div>
+              )}
+              <table className="conj-grid">
+                <tbody>
+                  {PRONOUNS.map((pronoun) => (
+                    <tr key={pronoun}>
+                      <td className="conj-pronoun">{pronoun}</td>
+                      <td className={`conj-form ${irreguls.includes(pronoun) ? 'irregular' : ''}`}>
+                        {data[pronoun] ?? '—'}
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          );
+        })}
       </div>
     </div>
   );

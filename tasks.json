@@ -1,0 +1,35 @@
+{
+  "project": "italian-flashcards",
+  "description": "Describe your goals here",
+  "tasks": [
+    {
+      "id": "task-001",
+      "name": "Example task",
+      "prompt": "Read the current codebase first.\n\nPlan first, show me the plan before implementing.\n\nTODO: Replace this with your actual task.\n\nRun tests after.\nUpdate CLAUDE.md with any architectural decisions.",
+      "config": {
+        "model": "sonnet",
+        "effort": "high",
+        "budget_usd": 3.0,
+        "max_turns": 20,
+        "permission_mode": "auto",
+        "worktree": null,
+        "fast_mode": false
+      },
+      "depends_on": [],
+      "checkpoint": "pause",
+      "on_failure": "pause",
+      "context": "",
+      "result": {
+        "status": "queued",
+        "cost_usd": 0.0,
+        "turns_used": 0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "cache_read_tokens": 0,
+        "summary": "",
+        "error": "",
+        "retry_count": 0
+      }
+    }
+  ]
+}

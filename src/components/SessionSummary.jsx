@@ -1,4 +1,4 @@
-export default function SessionSummary({ history, newLearned = 0, maxStreak = 0, onRestart, onDone }) {
+export default function SessionSummary({ history, newLearned = 0, maxStreak = 0, priorityAnswered = 0, onRestart, onDone }) {
   const total = history.length;
   const correct = history.filter((h) => h.response !== 'again').length;
   const pct = total > 0 ? Math.round((correct / total) * 100) : 0;
@@ -19,8 +19,11 @@ export default function SessionSummary({ history, newLearned = 0, maxStreak = 0,
         <span className="score-label">correct</span>
       </div>
 
-      {(newLearned > 0 || maxStreak > 1) && (
+      {(newLearned > 0 || maxStreak > 1 || priorityAnswered > 0) && (
         <div className="summary-extras">
+          {priorityAnswered > 0 && (
+            <span className="summary-extra">⭐ {priorityAnswered} priority word{priorityAnswered !== 1 ? 's' : ''} reviewed</span>
+          )}
           {newLearned > 0 && (
             <span className="summary-extra">{newLearned} new word{newLearned !== 1 ? 's' : ''} introduced</span>
           )}
